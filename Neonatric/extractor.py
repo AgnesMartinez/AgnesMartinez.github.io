@@ -3,7 +3,7 @@ import json
 
 def extraer_pagina(numero):
 
-    pdf_file = open('./assets/book.pdf', 'rb')
+    pdf_file = open('./assets/books/book.pdf', 'rb')
 
     read_pdf = PyPDF2.PdfFileReader(pdf_file)
 
@@ -70,20 +70,37 @@ def main():
 
 if __name__=="__main__":
 
-    farmacos = json.loads(open("./farmacos.json","r",encoding="utf-8").read())
+
+    farmacos = json.loads(open("./assets/farmacos.json","r",encoding="utf-8").read())
+
+    #Algunos farmacos vienen con tabla, parece que lo regresa como string sin separadores
+    #Omeprazol es un ejemplo, tengo que buscar mas en el documento. 
+    #Esta dentro de assets/books, se llama "book.pdf"
+    #Ahi puedes consultar las paginas que tienen tabla, apartir de la 10 a la 138
 
     omeprazol = farmacos["Omeprazole"]
 
     dosis = omeprazol["Dose"]
 
-    dosis = dosis.replace("mg","mg**").replace("mL","mL**")
+    dosis = dosis.replace("mg","mg**").replace("mL","mL**").replace("Volume","Volumen**").strip()
 
     cachitos = dosis.split("**")
+    
+    # (1 mg,0.5 mL)
 
-    for cachito in cachitos:
+    #Sugerencia tener la informacion en tuplas, (dosis,volumen), asi podemos calcular balance de liquidos. 
+    #Requerimiento de agua al dia de un bebe de 3 kg = 300 ml/24hrs (ejemplo)
+    #Si le tocan 5mg de omeprazol cada 12 hrs, son 2.5ml de agua.
+    #A la solucion de 300ml, le tienes que quitar 2.5ml, porque vas a inyectar 2.5ml con 5 mg de omeprazol
+    #Eso se conoce como aforar una solucion.
+    
+    #6 mg serian 5mg + 1mg
+    tuplas = [ (cachitos[i],"4 mL") if i == 5 else (cachitos[i],cachitos[i + 8]) for i in range(6) ]
 
-        print(cachito)
-
+    #Lo malo es que tenemos que hacer esto por cada tabla x( 
+    #Igual y no son tan diferentes a esta
+    print(tuplas)
+ 
 
 
 
