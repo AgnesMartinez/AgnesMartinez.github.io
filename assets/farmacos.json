@@ -1,0 +1,1157 @@
+{
+    "Acetaminophen": {
+        "Generic Name": "Acetaminophen",
+        "Brand Name": "Tylenol, Tempra",
+        "Indications": "Fever, mild pain.",
+        "Dose": "Neonate PO, PR 10-15 mg/kg/dose q 6-8 hrs prn.International Evidence  Based Group for Neonatal Pain recommendationPreterm (28-32 weeks) PO 10-12 mg/kg/dose q 6-8 hr; max. 40 mg/kg/day.PR 20 mg/kg/dose q 12 hrs; max. 40 mg/kg/day.Preterm (32-36 weeks) and term <10 daysPO 10-15 mg/kg/dose q 6 hrs; max. 60 mg/kg/day.PR 15 mg/kg/dose q 8 hrs; max. 60 mg/kg/day.Term 10 days PO 10-15 mg/kg/dose q 4-6 hrs; max. 90 mg/kg/day.PR 20 mg/kg/dose q 6-8 hrs; max. 90 mg/kg/day.",
+        "Route": "PO, PR",
+        "Levels and Metabolism": "Half-life in preterm 5-11 hrs; Half-life in neonates 2-3 hrs.Metabolized mainly in the liver.",
+        "Precautions": "Hepatotoxicity may occur with serum levels >200 mcg/mL at 4 hrs or Liquid preparations may contain sodium benzoate which can lead to gasping syndrome in neonates."
+    },
+    "Acetazolamide": {
+        "Generic Name": "Acetazolamide",
+        "Brand Name": "Diamox",
+        "Indications": "Slows progression of hydrocephalus in patients who are not good surgical candidates (may be used in conjunction with furosemide), renal tubular acidosis to alkalinize the urine (carbonic anhydrase inhibitor), adjunct in the treatment of refractory seizures.",
+        "Dose": "Hydrocephalus or Adjunct Anticonvulsant 2.5-5 mg/kg/dose given q 12-8 hrs slow IV push or PO; increase as tolerated to 7 mg/kg/dose given q 8 hrs. Renal Tubular Acidosis 5 mg/kg/dose q 8-12 hrs.",
+        "Route": "IV, PO",
+        "Levels and Metabolism": "Eliminated primarily by renal excretion with a serum half-life of 2-6 hrs. Tolerance to anticonvulsant effect may develop with long-term use.",
+        "Precautions": "IM administration is painful and not recommended. May cause hyperchloremic metabolic acidosis (which may be severe even at very low doses in a small sick premature infant), hypokalemia, drowsiness, and rash (sulfa-like drug).Generally not recommended for prolonged use. Extemporaneous",
+        "Preparation": "A 25 mg/mL oral suspension may be made with tablets and either a 11 mixture of Ora-Sweet and Ora-Plus or a 11 mixture of Ora-Sweet SF and Ora-Plus. Crush twelve 250 mg tablets in a mortar and reduce uniform paste; mix while adding the vehicle in incremental proportions to almost 120 mL; transfer to a calibrated bottle, rinse mortar with shake well and refrigerate. Stable for 60 days. When diluted in 120 mL solution of cherry syrup concentrate diluted 14 with simple syrup, NF, it is stable 60 days refrigerated (preferred) or at room temperature.",
+        "References": "1. Allen LV Jr and Erickson MA 3rd. Stability of Acetazolamide, Allopurinol, Azathioprine, Clonazepam, and Flucytosine in Extemporaneously Compounded Oral Liquids. AJHP, 1996, 53(16)1944-9.2. Nahata MC, Pai VB, and Hipple TF. Pediatric Drug Formulations, 5th ed, Cincinnati, OH Harvey Whitney Books Co, 2004."
+    },
+    "Acetylcysteine": {
+        "Generic Name": "Acetylcysteine",
+        "Brand Name": "Mucomyst",
+        "Indications": "Mucolytic agent, adjunctive therapy for abnormal or viscid mucus secretions in BPD.",
+        "Dose": "Nebulization 1-2 mL of 20% solution or 2-4 mL of 10% solution, given 3-4 times daily.",
+        "Route": "Inhalation",
+        "Levels and Metabolism": "Onset of action Mucus liquefaction occurs within 10-15 min; Duration > 1 hr.",
+        "Precautions": "Patients should receive an aerosolized bronchodilator 10-15 min prior to acetylcysteine."
+    },
+    "Acetylsalicylic Acid (ASA)": {
+        "Generic Name": "Acetylsalicylic Acid (ASA)",
+        "Brand Name": "Aspirin",
+        "Indications": "Analgesic, antipyretic, antiplatelet (post cardiac surgery).",
+        "Dose": "Analgesic and antipyretic (children)PO, PR 10-15 mg/kg/dose q 4-6 hrs.PO 60-90 mg/kg/day in divided doses.Antiplatelet PO 1-5 mg/kg/day to 5-10 mg/kg/day given as a single daily dose (doses are rounded to convenient amount e.g.,  of 80 mg tablet).",
+        "Route": "PO, PR",
+        "Levels and Metabolism": "Analgesic and antipyretic therapeutic levels 30-50 mcg/mL; anti-Metabolized in the liver; Elimination renal as salicylate and conjugated metabolites.",
+        "Precautions": "May cause GI upset, allergic reactions, hepatotoxicity, bleeding.Use with extreme caution in children < 2 years old. Because of possible or varicella."
+    },
+    "Acyclovir": {
+        "Generic Name": "Acyclovir",
+        "Brand Name": "Zovirax",
+        "Indications": "Herpes simplex infection (HSV), varicella zoster infection with CNS and pulmonary involvement, herpes simplex encephalitis.",
+        "Dose": "HSV Infection (Disseminated)Premature neonates 10 mg/kg/dose q 12 hrs for 14-21 days.Neonates10 mg/kg/dose q 8 hrs; infuse IV over 1 hr. Usual course of treatment 10-14 days, but 21 days recommended in disseminated disease. Varicella Zoster IV 10-20 mg/kg q 8 hrs for at least 7-10 days.PO 10 mg/kg 4 times daily for 7-10 days after exposure.",
+        "Route": "IV, PO",
+        "Levels and Metabolism": "30-90% of administered dose is excreted unchanged in the urine, minimal. Half-life is 2-3 hrs in children over 1 year of age and adults, but longer (4 hours) in newborns. Penetrates the heart, lung, liver, saliva, and vaginal secretions with concentrations similar to those in plasma; CSF levels are approximately 50% of those in plasma.",
+        "Precautions": "May cause phlebitis, crystalluria and crystal nephropathy after bolus injection, transient renal dysfunction, rash, and neurotoxicity especially with long-term use at high doses. Patients should be hydrated and acyclovir given over one hour to prevent the transient renal dysfunction. Adjustment of dose and/or intervals required in patients with impaired renal function."
+    },
+    "Adenosine": {
+        "Generic Name": "Adenosine",
+        "Brand Name": "Adinocard",
+        "Indications": "Treatment of sustained paroxysmal supraventricular tachycardia (PSVT).",
+        "Dose": "0.05 mg/kg by rapid IV bolus. Increase dose by increments of 0.05 mg/kg q 2 minutes until return to sinus rhythm. Maximum dose of 0.25 mg/kg IV, do not exceed 12 mg per dose. Flush IV with saline after each dose.",
+        "Route": "IV",
+        "Levels and Metabolism": "Metabolized very rapidly and has a half-life of approximately 1-10 seconds in the plasma.",
+        "Precautions": "adenosine is quite high, although these effects are of short duration and do not require intervention. Transient side effects include sinus dyspnea due to bronchoconstriction."
+    },
+    "Albumin": {
+        "Generic Name": "Albumin",
+        "Indications": "Hypovolemia, pre-exchange transfusion for hyperbilirubinemia, infants with cardiorespiratory compromise, symptomatic hypoalbuminemia.",
+        "Dose": "Hypovolemia 5-10 mL/kg of 5% albumin given IV push or by infusion pump over 30 min-1 hr, repeat as clinically indicated. Hypoalbuminemia 0.25-1 g/kg/dose of 20% albumin given by slow infusion. May follow by furosemide (Lasix).",
+        "Route": "IV",
+        "Levels and Metabolism": "Duration of volume expansion ~24 hrs; Half-life 21 days.",
+        "Precautions": "When given rapidly may cause pulmonary edema and/or circulatory overload. In older patients, hypersensitivity reactions may include chills, fever, nausea, and urticaria. Use 25% albumin with caution in preterm infants at risk for IVH. Use with caution in severe anemia, congestive heart failure, and hypervolemia.Use within 4 hours of opening vial."
+    },
+    "Allopurinol": {
+        "Generic Name": "Allopurinol",
+        "Brand Name": "Zyloprim",
+        "Indications": "Hyperuricemia (secondary to inborn errors of purine metabolism, large tissue breakdown, or renal failure).",
+        "Dose": "PO 10 mg/kg/day, divided in 1-4 doses/day.IV 200 mg/m2/day, divided in 2-4 doses/day.",
+        "Route": "PO, IV",
+        "Levels and Metabolism": "Decrease in serum uric acid occurs in 1-2 days. Oral absorption ~80% from GI tract. Metabolism ~75% to active metabolites, mainly oxypurinol. Half-life parent 1-3 hrs and oxypurinol 18-30 hrs.",
+        "Precautions": "May cause GI irritation, renal impairment, leukopenia, and rash. Dosing adjustment recommended with renal impairment.Extemporaneous",
+        "Preparation": "A 20 mg/mL oral suspension may be made with tablets and either a 11 mixture of Ora-Sweet and Ora-Plus or a 11 mixture of Ora-Sweet SF and Ora-Plus or a 14 mixture of cherry syrup concentrate and simple powder. Add small portions of chosen vehicle and mix to a uniform paste; mix while adding the vehicle in incremental proportions to almost 120 mL; transfer to a calibrated bottle, rinse mortar with vehicle, well. Stable for 60 days refrigerated or at room temperature.",
+        "References": "1. Allen LV Jr and Erickson MA 3rd. Stability of Acetazolamide, Allopurinol, Azathioprine, Clonazepam, and Flucytosine in Extemporaneously Compounded Oral Liquids. AJHP, 1996, 53(16)1944-9.2. Nahata MC, Pai VB, and Hipple TF. Pediatric Drug Formulations, 5th ed, Cincinnati, OH Harvey Whitney Books Co, 2004."
+    },
+    "Alprostadil (Prostaglandin E1; PGE1)": {
+        "Generic Name": "Alprostadil (Prostaglandin E1; PGE1)",
+        "Brand Name": "Prostin",
+        "Indications": "Temporary maintenance of patency of ductus arteriosus in the presence of PDA-dependent congenital heart disease until corrective or palliative surgery can be performed.",
+        "Dose": "(mcg/kg/min) x Weight (kg) x 60 min/hrConcentration (mcg/mL) * For recommended standard concentrations and more details on calculations please    see the appendix.",
+        "Route": "IV",
+        "Levels and Metabolism": "70-80% metabolized in the lungs to active metabolite that is excreted in urine. Half-life 5-10 min. PDA will begin to close within 1-2 hrs after drug is stopped.",
+        "Precautions": "hour of drug infusion. Patient may require intubation and resuscitation. May cause systemic hypotension, seizure-like activity, hypoglycemia, and fever.  *Calculating infusion rate (mL/hr) ="
+    },
+    "Alteplase (TPA)": {
+        "Generic Name": "Alteplase (TPA)",
+        "Brand Name": "Activase",
+        "Indications": "Thrombolytic agent. Used for treatment of occluded central venous catheters and thrombosis.",
+        "Dose": "Occluded CVC Clearance Instill into occluded catheter 1 mg/ml. Use 110% of the internal lumen volume of the catheter, not to exceed 2 mg/2 0.9% sodium chloride. May instill a second dose if catheter remains occluded.Intravascular Thrombosis 0.1-0.5 mg/kg/hr for 3-6 hrs; use ultrasound assessment to monitor effect before considering a second course of treatment.",
+        "Route": "Intracatheter, IV",
+        "Levels and Metabolism": "Cleared rapidly from the plasma; Metabolized in the liver.",
+        "Precautions": "Use with caution if there is a risk of bleeding including that from venipuncture or invasive procedures. Intracranial hemorrhage may occur. Monitor coagulation studies. Discontinue heparin several hours prior to initiation of therapy for intravascular thrombosis."
+    },
+    "Amikacin": {
+        "Generic Name": "Amikacin",
+        "Brand Name": "Amikin",
+        "Indications": "Infections with gram-negative organisms (resistant to tobramycin and gentamicin) and documented infections with mycobacterial organisms.",
+        "Dose": "adjustment required with impaired renal function. Literature indicates that hearing impairment in neonates is rare if the usual doses of aminoglycosides are used. May cause neuromuscular blockade especially with concomitant use of neuromuscular blocking agents and in patients with hypermagnesemia.",
+        "Route": "IV, IM",
+        "Levels and Metabolism": "Therapeutic Drug Monitoring Trough 5-10 mcg/mL; Peak 20-30 mcg/mL. Draw peak levels 30 min after IV infusion or 1 hr after IM administration. Specimens should be spun and frozen or refrigerated as soon as possible. Not absorbed from GI tract in normal host; crosses blood-brain barrier poorly; excreted through the kidneys.",
+        "Precautions": "Peak levels of >35 mcg/mL and trough levels >10 mcg/mL are considered toxic. Nephrotoxicity and ototoxicity are associated with aminoglycosides in general."
+    },
+    "Aminophylline": {
+        "Generic Name": "Aminophylline",
+        "Brand Name": "Somophyllin",
+        "Indications": "Apnea of prematurity, bronchodilation, bronchopulmonary dysplasia, prevention of post-extubation atelectasis.",
+        "Dose": "Apnea Loading dose 4-6 mg/kg PO or infused IV over 30 min; Maintenance dose (8-12 hrs after loading dose) 2 mg/kg/dose IV or PO given q 6-8 hrs. Bronchodilation Loading dose 6 mg/kg IV or PO, then give maintenance dose 0.2-0.5 mg/kg/hr.",
+        "Route": "IV, PO",
+        "Levels and Metabolism": "Therapeutic Drug MonitoringApnea 6-13 mcg/mL.  Bronchodilation 10-20 mcg/mL. Trough level should be obtained 48-72 hrs after loading dose, then at least once per week. Half-life can be as long as 20-30 hrs in small premature infants.",
+        "Precautions": "May cause tachycardia, jitteriness, vomiting, abdominal distention, hyperglycemia, and seizures. Bradycardia has been observed during concurrent therapy with digitalis, suggesting potentiation of vagal stimulation by these vagotonic drugs. Hold dose if heart rate >180 beats/min. Aminophylline salt is 80% theophylline. When changing from IV to PO aminophylline increase dose by 20%. When changing to PO theophylline no adjustment needed."
+    },
+    "Amiodarone": {
+        "Generic Name": "Amiodarone",
+        "Brand Name": "Cordarone, Pacerone",
+        "Indications": "An antiarrhythmic agent used to control life-threatening ventricular tachyarrhythmias.",
+        "Dose": "Loading dose 5 mg/kg IV infused over 30-60 min followed by maintenance infusion. (I.V. should be administered only by a pediatric cardiologist)Maintenance dose 5 microgram/kg/minute (up to 15 microgram/kg/minute). Taper the IV infusion and switch to oral therapy as soon as possible.Oral Initially 510 mg/kg twice daily for 710 days, then reduced to maintenance dose of 510 mg/kg once daily.",
+        "Route": "IV, PO",
+        "Levels and Metabolism": "The elimination half-life of amiodarone is not accurately estimated in neonates; however, it varies, depending on how the half-life has been measured and the route of amiodarone administration. After long-term oral therapy, amiodarone has a true elimination half-life between 60 and 142 days. Amiodarone is extensively metabolized in the liver by cytochrome P450 3A4. Excretion is primarily hepatic and biliary with almost no elimination via the renal route.",
+        "Precautions": "Monitor for hypotension, thrombocytopenia, hepatotoxicity, a new arrhythmia, thyroid function and gasping syndrome due to the preservative benzyl alcohol."
+    },
+    "Amoxicillin": {
+        "Generic Name": "Amoxicillin",
+        "Brand Name": "Amoxil",
+        "Indications": "To treat infections involving the upper respiratory tract and urinary tract due to susceptible organisms.",
+        "Dose": "20-30  mg/kg/day; in dividid doses q 12-8 hrs.UTI prophylaxis 10-20 mg/kg once daily",
+        "Route": "PO",
+        "Levels and Metabolism": "Metabolized partially in the liver; eliminated by renal excretion (80% unchanged).",
+        "Precautions": "With prolonged therapy, monitor renal, hepatic, and hematologic function periodically.",
+        "Preparation": "Powder for oral suspension 125 mg/5 mL, 250 mg/5 mL"
+    },
+    "Amphotericin B": {
+        "Generic Name": "Amphotericin B",
+        "Brand Name": "Fungizone",
+        "Indications": "Disseminated fungal infections caused by susceptible fungi such as Blastomyces dermatitidis, Histoplasma capsulatum, Cryptococcus neoformans, Candida sp., Sporothrix schenkii, Coccidioides immitis, Aspergillus sp.",
+        "Dose": "over 6 hrs. Subsequently increase gradually to 0.5-1 mg/kg/day IV as single infusion over 4-6 hrs.",
+        "Route": "IV",
+        "Levels and Metabolism": "Undergoes renal elimination. Initial half-life ~15-48 hrs; Terminal half-life ~15 days.",
+        "Precautions": "May cause infusion related reactions, fever, vomiting, hypokalemia, mild renal tubular acidosis, and hypomagnesemia. Serious renal toxicity occurs frequently. Renal damage results from vasoconstriction, impaired acid excretion, and direct tubular damage with nephrocalcinosis. Thrombocytopenia, leukopenia, jaundice and hepatoxicity are rarely seen. Monitor K, Mg, BUN, creatinine, bilirubin, alkaline phosphatase, SGOT daily until dose stable, then q week with CBC."
+    },
+    "Amphotericin B Liposomal": {
+        "Generic Name": "Amphotericin B Liposomal",
+        "Brand Name": "Ambisome",
+        "Indications": "Treatment of systemic fungal infections resistant to conventional amphotericin B or in patients with renal or hepatic dysfunction.",
+        "Dose": "5-7 mg/kg daily infused over 2 hrs.",
+        "Route": "IV",
+        "Levels and Metabolism": "Penetrates the liver and spleen but poor penetration into CSF. Undergoes renal elimination. Mean half-life 24-40 hrs.",
+        "Precautions": "Less nephrotoxic than conventional amphotericin B."
+    },
+    "Ampicillin": {
+        "Generic Name": "Ampicillin",
+        "Brand Name": "Omnipen, Polycillin",
+        "Indications": "Initial empiric treatment (with an aminoglycoside) for neonates with suspected bacterial sepsis or meningitis. Drug of choice for Listeria monocytogenes and Enterococci.",
+        "Dose": "Divided 100 mg/kgq 12 hrs 0-7 days, > 2000 g150 mg/kgq 8 hrs 150 mg/kgq 8 hrs >7 days, > 2000 g200 mg/kgq 6 hrs Above are meningitic doses (Group B streptococcal meningitis requires even higher doses). For suspected bacterial sepsis, may use half of above doses if meningitis has been ruled out.",
+        "Route": "IV, IM",
+        "Levels and Metabolism": "90% excreted unchanged in urine. Half-life is 4 hrs in infants 0-7 days old, and decreases to ~ 2 hrs in older infants. Penetration into the CSF",
+        "Precautions": "May cause rash, diarrhea, interstitial nephritis.Reconstituted solution must be used within 1 hour due to loss of potency."
+    },
+    "Amrinone (Inamrinone)": {
+        "Generic Name": "Amrinone (Inamrinone)",
+        "Brand Name": "Inocor",
+        "Indications": "Short term treatment of low cardiac output states (not responding to other treatments). e.g., due to sepsis, CHF.",
+        "Dose": "(mcg/kg/min) x Weight (kg) x 60 min/hrConcentration (mcg/mL)* For recommended standard concentrations and more details on calculations please    see the appendix.",
+        "Route": "IV",
+        "Levels and Metabolism": "Onset of action 2-5 min; Peak effect within 10 min; Duration is dose dependent (30 min to 2 hrs); Half-life ~22 hrs in neonates and ~7 hrs in infants.  Metabolized in the liver to several metabolites; Excreted in the urine as metabolites and unchanged drug (10-40%).",
+        "Precautions": "Monitor for hypotension, thrombocytopenia, hepatotoxicity, and GI side effects."
+    },
+    "Atracurium": {
+        "Generic Name": "Atracurium",
+        "Brand Name": "Tracium",
+        "Indications": "Muscle relaxant during endotracheal intubation, mechanical ventilation or surgery, as adjunct to general anesthesia.",
+        "Dose": "(mcg/kg/min) x Weight (kg) x 60 min/hrConcentration (mcg/mL) * For recommended standard concentrations and more details on calculations please    see the appendix.",
+        "Route": "IV",
+        "Levels and Metabolism": "Onset of action 1-4 min; Maximum effect within 3-5 min; Duration of effect 20-35 min. Metabolized by rapid nonenzymatic degradation (Hofmann elimination) in the bloodstream. Half-life 20 min.",
+        "Precautions": "Potentiated by Acidosis, aminoglycosides, hypermagnesemia, and hypokalemia. Antagonized by Alkalosis, hypercalcemia, and caffeine.*Calculating infusion rate (mL/hr) ="
+    },
+    "Atropine": {
+        "Generic Name": "Atropine",
+        "Brand Name": "Atropen",
+        "Indications": "predominate, high degree A-V block with bradycardia, reduction of muscarinic effects of cholinergic drugs like neostigmine when reversing neuromuscular blockade.",
+        "Dose": "may be repeated q 2-5 min to achieve desired effect, with a maximum total dose of 0.04 mg/kg.",
+        "Route": "IV, IM, SubQ, ET",
+        "Levels and Metabolism": "Peak tachycardia in 12-16 min after dose given; Half-life ~ 6 hrs. Up to 50% excreted unchanged by the kidneys.",
+        "Precautions": "Monitor for cardiac arrhythmias, fever especially in brain damaged cycloplegia. Avoid in thyrotoxicosis, tachycardia secondary to cardiac"
+    },
+    "Aztreonam": {
+        "Generic Name": "Aztreonam",
+        "Brand Name": "Azactam",
+        "Indications": "Treatment of multidrug resistant life-threatening infections with gram-negative aerobic organisms, especially Pseudomonas aeruginosa. Little activity against gram-positive or anaerobic bacteria. Treatment of susceptible organisms in patients with penicillin or cephalosporin allergy.",
+        "Dose": ">2000 g 90 mg/kg/day, divided q 8 hrs.PNA >7 days<1200 g 60 mg/kg/day, divided q 12 hrs.1200 -2000 g 90 mg/kg/day, divided q 8 hrs.>2000 g120 mg/kg/day, divided q 6 hrs.",
+        "Route": "IV, IM",
+        "Levels and Metabolism": "Up to 70% undergoes renal excretion; Half-life 3-9 hrs.",
+        "Precautions": "Monitor for thrombophlebitis, rash, and diarrhea."
+    },
+    "Beractant": {
+        "Generic Name": "Beractant",
+        "Brand Name": "Survanta",
+        "Indications": "Surfactant for prevention and treatment of respiratory distress syndrome.",
+        "Dose": "4 mL/kg intratracheally through ET, divided into 4 aliquots; may give hrs apart.",
+        "Route": "Intratracheal",
+        "Levels and Metabolism": "Penetrates the liver and spleen but poor penetration into CSF. Undergoes renal elimination. Mean half-life 24-40 hrs.",
+        "Precautions": "May cause transient bradycardia and oxygen desaturation. For intratracheal administration only. Suction infant prior to administration.  Do not shake just gentle swirling if settling occurs during storage. Keep refrigerated and protected from light. Warm at room temperature before administration."
+    },
+    "Bumetanide": {
+        "Generic Name": "Bumetanide",
+        "Brand Name": "Bumex",
+        "Indications": "Edema refractory to furosemide.",
+        "Dose": "0.01-0.05 mg/kg/dose, q 24-48 hrs.",
+        "Route": "IV, PO, IM",
+        "Levels and Metabolism": "Onset within a few minutes for IV and within 1 hour for PO and IM; Duration ~ 3-6 hrs; Half-life 6-15 hrs.",
+        "Precautions": "Monitor for severe electrolytes disturbances and hypotension. May cause ototoxicity. 1 mg of bumetamide ~ equivalent in potency to 40 mg furosemide."
+    },
+    "Caffeine Citrate": {
+        "Generic Name": "Caffeine Citrate",
+        "Brand Name": "Cafcit, Primicaf",
+        "Indications": "Neonatal apnea.",
+        "Dose": "Loading dose (as caffeine citrate salt) 10-20 mg/kg.  Maintenance dose 5 mg/kg/dose given q 24 hrs. Begin maintenance 24 hrs after the loading dose. Note doses for anhydrous caffeine are lower use 1/2 the caffeine citrate dose. If theophylline has been administered within the previous 3 days, dose is adjusted based on patients response and serum caffeine concentrations.",
+        "Route": "IV, PO",
+        "Levels and Metabolism": "Therapeutic Drug MonitoringDraw trough level on day 5 or 6 after loading dose. Therapeutic levels 7-20 mcg/mL; Toxic levels > 40-50 mcg/mL. Interconversion between caffeine and theophylline occurs in preterm neonates. Serum half-life widely variable in newborns, mean half-life is",
+        "Precautions": "Do not interchange caffeine citrate salt formulations with caffeine sodium benzoate. Monitor for cardiac arrhythmias, muscle tremors or twitches, and increased urine output. Consider holding dose if heart rate >180 beats/min.Please see the appendix for protocol on use."
+    },
+    "Calcium Glubionate": {
+        "Generic Name": "Calcium Glubionate",
+        "Brand Name": "Neocalglucon, Calcionate",
+        "Indications": "",
+        "Dose": "Neonates 1200 mg/kg/day in 4-6 divided doses as calcium glubionate salt.Low-birth-weight infant 2-4 mL/kg/day in 2-3 divided doses. Can be increased gradually as indicated by serum calcium level and clinical condition.",
+        "Route": "PO",
+        "Precautions": "Absorption inhibited by high phosphate intake. High osmotic load of syrup may cause diarrhea.Each 1 mL of calcium glubionate 6.5% syrup = 23 mg elemental calcium = 1.2 m Eq calcium = 360 mg of salt."
+    },
+    "Calcium Gluconate (10%)": {
+        "Generic Name": "Calcium Gluconate (10%)",
+        "Indications": "Symptomatic hypocalcemia, cardiac arrest in the presence of hyperkalemia or hypocalcemia, magnesium toxicity or calcium antagonist toxicity.",
+        "Dose": "Symptomatic Hypocalcemia 100-200 mg/kg/dose (1-2 mL/kg/dose) slow IV over 5-10 min, may repeat dose or follow with a continuous infusion.  Maintenance dose 200-800 mg/kg/day (2-8 mL/kg/day divided q 6 hrs or as a continuous infusion. Cardiac Arrest 60-100 mg/kg/dose (0.6-1 mL/kg/dose) IV.",
+        "Route": "IV",
+        "Precautions": "Monitor for hypercalcemia and bradycardia. Use in digitalized patients may precipitate cardiac arrhythmias. May cause severe tissue necrosis Dilute salt to 50 mg/mL; recommended rate of infusion 120-240 mg/kg/hr.1 mL of 10% calcium gluconate contains 9.4 mg elemental calcium = 4.5 mEq calcium."
+    },
+    "Captopril": {
+        "Generic Name": "Captopril",
+        "Brand Name": "Capoten",
+        "Indications": "Hypertension and afterload reduction in heart failure.",
+        "Dose": "Neonates 0.01-0.1 mg/kg/dose PO, q 8-24 hrs. Titrate up to 0.5 mg/kg/dose q 6-24 hrsInfants 0.15-0.3 mg/kg/dose; titrate dose upwards to max. of 6 mg/kg/day in 2-4 divided doses. Dosage titrated according to patients response.",
+        "Route": "PO",
+        "Levels and Metabolism": "50% metabolized and primarily eliminated by renal excretion.",
+        "Precautions": "May cause hypotension, hyperkalemia, elevated BUN and serum creatinine, neutropenia, and rash. Use with caution and modify dose in renal impairment and volume depletion.Extemporaneous",
+        "Preparation": "A 1 mg/mL oral solution may be made by allowing two 50 mg tablets to dissolve in 50 mL of distilled water. Add the contents of one 500 mg sodium ascorbate injection ampule or one 500 mg ascorbic acid make 100 mL. Label shake well and refrigerate. Stable for 56 days refrigerated.",
+        "References": "Nahata MC, Pai VB, and Hipple TF. Pediatric Drug Formulations, 5th ed, Cincinnati, OH Harvey Whitney Books Co, 2004."
+    },
+    "Carbamazepine": {
+        "Generic Name": "Carbamazepine",
+        "Brand Name": "Tegretol",
+        "Indications": "An anticonvulsant to treat a range of neonatal seizures.",
+        "Dose": "2.5 mg/kg twice daily, increased as necessary by 2.55 mg/kg every 37 days; usual maintenance dose 5 mg/kg 23 times daily. Increase dose slowly to allow for enzyme induction on initiation of  therapy. Dosage must be adjusted according to patients response and serum concentrations.",
+        "Route": "PO",
+        "Levels and Metabolism": "Sampling time  Just before next dose Therapeutic range  4-12 mcg/mLTime to reach steady rate 1-2 weeks",
+        "Precautions": "Interacts with many drugs such as phenytoin (both drugs may be altered) and erythromycin (increases level of carbamazepine).CBC, renal and LFTs should be obtained prior to instituting therapy and periodically throughout the course of therapy. May cause Bone marrow depression mainly neutropenia, cardiovascular, renal, and hepatic disturbances, and drowsiness.",
+        "Preparation": "An oral preparation in sucrose is available commercially.",
+        "References": "1. Tulloch JK1, Carr RR, Ensom MH. A systematic review of the pharmacokinetics of antiepileptic drugs in neonates with refractory seizures. J Pediatr Pharmacol Ther. 2012 Jan;17(1)31-44. doi 10.5863/1551-6776-17.1.31."
+    },
+    "Cefazolin": {
+        "Generic Name": "Cefazolin",
+        "Brand Name": "Ancef, Kefzol",
+        "Indications": "First generation cephalosporin useful for treatment of infections caused by susceptible gram-positive cocci (except enterococcus).",
+        "Dose": "Divided 40 mg/kg q 12 hrs 40 mg/kg q 12 hrs >7 days, > 2000 g 60 mg/kg q 8 hrs Preferred route is IV over 15-30 min.",
+        "Route": "IV, IM",
+        "Levels and Metabolism": "Half-life 3-5 hrs. Eliminated unchanged in the urine. Does not penetrate well into the CSF.",
+        "Precautions": "May cause rash, phlebitis, leukopenia, thrombocytopenia, and false-positive urinary reducing substances and coombs test."
+    },
+    "Cefepime": {
+        "Generic Name": "Cefepime",
+        "Brand Name": "Maxipime",
+        "Indications": "Fourth generation cephalosporin used for treatment of infections caused by susceptible gram negative bacteria, including Pseudomonas aeruginosa. Lower respiratory tract infections, cellulitis, and urinary tract infections.",
+        "Dose": "Neonates <14 days 30 mg/kg/dose q 12 hrs",
+        "Route": "IV, IMLevels  and metabolism~80% of serum levels and into bronchial mucosa at levels ~60% of plasma levels; 85% excreted as unchanged drug in urine.",
+        "Precautions": "May cause phlebitis, diarrhea, rash, seizures, neutropenia with prolonged use, thrombocytopenia, transient elevation of LFTs and elevated BUN and creatinine."
+    },
+    "Cefotaxime": {
+        "Generic Name": "Cefotaxime",
+        "Brand Name": "Claforan",
+        "Indications": "Third generation cephalosporin used for treatment of infections caused by susceptible non-pseudomonal gram negative rods. Meningitis and neonatal sepsis in patient at risk of aminoglycoside toxicity.",
+        "Dose": "Divided 100 mg/kg q 12 hrs 0-7 days, > 2000 g 100-150 mg/kg q 8-12 hrs 150 mg/kg q 8 hrs >7 days, > 2000 g 150-200 mg/kg q 6-8 hrs IV infusion over 15-30 min preferred.",
+        "Route": "IV, IM",
+        "Levels and Metabolism": "Distributes widely in bile, bronchial secretions, lung tissue, ascitic infants. Partially metabolized in the liver to active metabolite. Renally eliminated as unchanged drug and metabolite.",
+        "Precautions": "May cause phlebitis, rash, transient neutropenia, eosinophilia, false positive urine-reducing substance and coombs test."
+    },
+    "Ceftazidime": {
+        "Generic Name": "Ceftazidime",
+        "Brand Name": "Fortaz, Tazicef",
+        "Indications": "Third generation cephalosporin used for treatment of infections caused by susceptible gram negative bacteria, particularly Pseudomonas aeruginosa. Meningitis and neonatal sepsis in neonates at risk of aminoglycoside toxicity.",
+        "Dose": "> 2000 g 100-150 mg/kg/day, divided q 8-12 hrs.100 mg/kg/day, divided q 12 hrs.PNA > 7 days,  1200 g 150 mg/kg/day, divided q 8 hrs.",
+        "Route": "IV, IMLevels  and metabolismHalf-life 3-12 hrs. Distributes widely into bone, bile, CSF (diffuses",
+        "Precautions": "May cause phlebitis, diarrhea, rash, neutropenia, thrombocytopenia, false positive urine-reducing substances and coombs test."
+    },
+    "Ceftriaxone": {
+        "Generic Name": "Ceftriaxone",
+        "Brand Name": "Rocephin",
+        "Indications": "Third generation cephalosporin used in treatment of neonatal sepsis and meningitis caused by susceptible gram-negative organisms (e.g. E. coli,",
+        "Dose": "Sepsis and Meningitis 24 hrs. Uncomplicated Gonococcal Ophthalmia or Prophylaxis 25-50 mg/kg x 1 dose (max. dose 125 mg).Disseminated Gonococcal Infection 25-50 mg/kg/dose (max. dose 125 mg) once daily IV or IM for 7 days, up to 10-14 days if meningitis is documented.Note Use cefotaxime in place of ceftriaxone in hyperbilirubinemic neonates.",
+        "Route": "IV, IM",
+        "Levels and Metabolism": "Distributes widely in CSF, bile, bronchial secretions, lung tissue, ascitic (40%) and renal mechanisms. Serum half-life in neonates 9-16 hrs.",
+        "Precautions": "Use with caution in neonates with hyperbilirubinemia. May cause diarrhea, rash, eosinophilia, thrombocytosis, leukopenia, and bleeding tendencies. Dosage adjustment necessary in patients with combined renal and hepatic dysfunction."
+    },
+    "Cefuroxime": {
+        "Generic Name": "Cefuroxime",
+        "Brand Name": "Zinnat",
+        "Indications": "Second generation cephalosporin used for treatment of infections caused by susceptible gram positive and gram negative organisms; not active against Enterococci or Pseudomonas.",
+        "Dose": "Neonates< 7 days 50 mg/kg; divided q 12 hrs IV or IM. 7-21 days 75 mg/kg; divided q 8 hrs IV. > 21 days 100 mg/kg; divided q 6 hrs IV.  In severe infections may double the dose for all of the above age groups and administer IV only.PO 10-20 mg/kg; divided q 12 hrs.",
+        "Route": "IM, IV, PO",
+        "Levels and Metabolism": "meninges. Half-life 1.5-5 hrs. Elimination is primarily unchanged in the urine.",
+        "Precautions": "May cause diarrhea, urticaria, neutropenia, rash, elevated liver enzymes, false-positive test for urinary reducing substances and coombs test."
+    },
+    "Cephalexin": {
+        "Generic Name": "Cephalexin",
+        "Brand Name": "",
+        "Indications": "First generation cephalosporin used for treatment of infections caused by susceptible gram positive and gram negative organisms; not active against enterococci.",
+        "Dose": "Neonates  < 7 days 50 mg/kg (max.125 mg); divided q 12 hrs.7-21 days 75 mg/kg (max.125 mg); divided q 8 hrs.21-28 days 100 mg/kg (max.125 mg); divided q 6 hrs.UTI prophylaxis 12.5 mg/kg (max.125 mg) once daily.",
+        "Route": "PO",
+        "Levels and Metabolism": "Absorption delayed up to 50% in neonates. Half-life 5 hrs. Undergoes renal excretion as unchanged drug.",
+        "Precautions": "May cause diarrhea, urticaria, neutropenia, rash, elevated liver enzymes, false-positive test for urinary reducing substances and coombs test."
+    },
+    "Chloral Hydrate": {
+        "Generic Name": "Chloral Hydrate",
+        "Brand Name": "Noctec, Somnos",
+        "Indications": "Sedatives and hypnotic for short term use and prior to non-painful therapeutic and diagnostic procedures.",
+        "Dose": "25 mg/kg/dose given PO or PR.  May repeat with caution in  hr if inadequate effect.",
+        "Route": "PO, PR",
+        "Levels and Metabolism": "Well absorbed after PO or PR administration. Onset of action 10-20 minutes; Maximum effect in 1 hr. Rapidly metabolized in the liver to an active metabolite, trichlorethanol (active metabolite), which is excreted by the kidney after conjugation to the glucuronide salt. Plasma half-life of active metabolite is 8-64 hrs in neonates (mean 37 hrs). Protein binding of active metabolite ~40%.",
+        "Precautions": "Repeat doses should be used with great caution due to possible accumulation of drug and metabolite. May potentiate the effects of CNS depressants. Prolonged use is associated with direct hyperbilirubinemia. Avoid use in patients with moderate to severe renal impairment, gastric irritation, paradoxical excitation (especially in patients in pain). Note Does not interfere with EEG results."
+    },
+    "Chloramphenicol": {
+        "Generic Name": "Chloramphenicol",
+        "Brand Name": "Chloromycetin",
+        "Indications": "Treatment of serious infections due to organisms resistant to other less N. meningitidis, salmonella, and Rickettsia.",
+        "Dose": "Adjustment in renal/or hepatic impairment should be based on serum concentration.",
+        "Route": "IV, PO",
+        "Levels and Metabolism": "Therapeutic Drug MonitoringMeningitis Peak 15-25 mcg/mL; Trough  5-15 mcg/mL.Other infections Peak 10-20 mcg/mL; Trough 5-10 mcg/mL.Draw peak 90 minutes after 30 minute infusion and trough just prior to next dose.metabolized in the liver and renally eliminated.",
+        "Precautions": "May cause skin rash, diarrhea, stomatitis, and vomiting. Serious and fatal blood dyscrasias may occur; should not be used if alternate less toxic agents are effective. May cause left ventricular dysfunction, peripheral neuropathy, optic neuritis, bone marrow suppression, baby syndrome."
+    },
+    "Chlorothiazide": {
+        "Generic Name": "Chlorothiazide",
+        "Brand Name": "Diuril",
+        "Indications": "Mild to moderate edema and/or hypertension. Effects potentiated when used in combination with furosemide or spironolactone. May improve pulmonary function in patients with bronchopulmonary dysplasia (BPD).",
+        "Dose": "PO 20-40 mg/kg/day; divided in two doses. IV 2-8 mg/kg/day, divided in two doses.",
+        "Route": "IV, PO",
+        "Levels and Metabolism": "Poor PO absorption (10-20%); Onset of diuresis within 2 hrs. Half-life ~5 hrs. Excreted unchanged in urine.",
+        "Precautions": "Use with caution in liver and severe renal disease. May cause hyperbilirubinemia, hypokalemia, alkalosis, hyperglycemia, hyperuricemia, and hypomagnesemia. Extemporaneous",
+        "Preparation": "A 50 mg/mL oral suspension may be made with tablets. Crush ten 500 mix with a small amount of glycerin to form a uniform paste. Add 2 g carboxymethylcellulose gel (mix 2 g carboxymethylcellulose with 5-10 mL water to form a paste; add 40 mL water and heat to 60C with moderate stirring until dissolution occurs; cool and allow to stand for 1-2 hours to form a clear gel). Dissolve 500 mg citric acid in 5 mL water and add to chlorothiazide carboxymethylcellulose mixture with 0.1% Label shake well and refrigerate. Stable for 30 days.",
+        "References": "Nahata MC, Pai VB, and Hipple TF. Pediatric Drug Formulations, 5th ed, Cincinnati, OH Harvey Whitney Books Co, 2004."
+    },
+    "Chlorpromazine": {
+        "Generic Name": "Chlorpromazine",
+        "Brand Name": "Thorazine",
+        "Indications": "Neonatal abstinence syndrome.",
+        "Dose": "Initially 0.5-0.7 mg/kg/dose given q 6 hrs, decrease dose gradually over 2-3 weeks. Note chlorpromazine is rarely used for neonatal abstinence syndrome due to adverse effects such as hypothermia and eosinophilia. Other agents are preferred such as phenobarbital.",
+        "Route": "IV, IM, PO",
+        "Levels and Metabolism": "bioavailable); widely distributed in body tissue. Metabolized in the liver.",
+        "Precautions": "Use with caution in patients with cardiovascular, renal or hepatic disease, and seizures. May cause altered central temperature regulation, leucopenia, and hyperpigmentation."
+    },
+    "Cholecalciferol (Vitamin D)": {
+        "Generic Name": "Cholecalciferol (Vitamin D)",
+        "Brand Name": "OsteVit-D, Pentavite",
+        "Indications": "RicketsIntestinal malabsorptionChronic liver diseaseHypoparathyroidismAll infants born <35 weeks  who are tolerating full enteral feeds",
+        "Dose": "400-500 Units once dailyonce daily until 12 months of age.1000 Units once daily for 3 months to be followed by maintenance therapy for 12 months.",
+        "Route": "PO",
+        "Levels and Metabolism": "Vitamin D metabolism in the liver 25-hydroxylation of vitamin D occurs leading to 25(OH) vitamin D. In the kidney, a second of 1,25-dihydroxivitamin D, the biologically active form.",
+        "Precautions": "Watch for symptoms of Cholecalciferol over dosage that include anorexia, lassitude, nausea, vomiting, diarrhea, weight loss, polyuria, sweating, headache, thirst, vertigo, raised concentrations of calcium and phosphate in plasma and urine.",
+        "Preparation": "OsteVit-D (0.1 ml daily -- equivalent to 500 units cholecalciferol/dose) or Pentavite (0.45 ml daily - equivalent to 400 units cholecalciferol/dose)",
+        "References": "Aly H, Abdel-Hady H. Vitamin D and the neonate An update. J Clin Neonatol. 2015, 41-7."
+    },
+    "Cholestyramine": {
+        "Generic Name": "Cholestyramine",
+        "Brand Name": "Questran",
+        "Indications": "Diarrhea secondary to ileal resection.",
+        "Dose": "Children (dose expressed in terms of anhydrous resin) 240 mg/kg/day, in 3 divided doses, mixed into feedings. Titrate dose according to response and tolerance. Can be mixed into paste and applied to skin of buttocks to reduce irritation from bile salts in babies with diarrhea or malabsorption.",
+        "Route": "PO",
+        "Levels and Metabolism": "Not absorbed from the GIT; forms an insoluble complex with bile acids which is excreted in feces.",
+        "Precautions": "Avoid in patients with biliary obstruction or biliary atresia. Use with caution in patients with constipation. May decrease absorption of other soluble vitamins."
+    },
+    "Clindamycin": {
+        "Generic Name": "Clindamycin",
+        "Brand Name": "Cleocin",
+        "Indications": "Treatment of infections caused by anaerobic bacteria and susceptible gram positive organisms, second line drug for Bacteroides fragilis infections in infants. Not appropriate for meningitis.",
+        "Dose": "> 2000 g 15 mg/kg/day, divided q 8 hrs.PNA >7 days< 1200 g 10 mg/kg/day, divided q 12 hrs.1200-2000 g 15 mg/kg/day, divided q 8 hrs.> 2000 g 20-30 mg/kg/day, divided q 6-8 hrs.InfantsPO 10-30 mg/kg/day, divided q 6-8 hrs.IV, IM 25-40 mg/kg/day, divided q 6-8 hrs.",
+        "Route": "IV, IM, PO",
+        "Levels and Metabolism": "Rapidly absorbed after PO with ~90% bioavailability. Half-life 8.7 hrs in premature infants and 3.6 hrs in full-term infants. Distributes excretion of metabolites.PrecautionMay cause diarrhea, pseudomembranous colitis, rash, Stevens-Johnson Syndrome, elevated liver enzymes, and sterile abscess with IM injection. Rapid IV administration may cause hypotension, arrhythmias, and cardiac arrest."
+    },
+    "Clonazepam": {
+        "Generic Name": "Clonazepam",
+        "Brand Name": "Clonopin, Rivotril IndicationSeizures Effective for typical absence (petit mal), myoclonic seizures, may be effective for infantile spasms, atypical petit mal, and akinetic seizures.",
+        "Dose": "Infants and children 0.01-0.03 mg/kg/day, divided in 2-3 doses; increase gradually in increments of 0.25-0.5 mg/day, at intervals of 3 days.  Maintenance dose 0.1-0.2 mg/kg/day, divided 3 times/day.",
+        "Route": "PO",
+        "Levels and Metabolism": "Therapeutic levels 20-80 ng/mL. (Relationship between serum concentration and seizure control is not well established).Well absorbed. Extensively metabolized in the liver. Half-life 22-33 hrs in children.",
+        "Precautions": "Use with caution in patients with chronic respiratory disease, hepatic disease, or impaired renal function; abrupt discontinuation may precipitate withdrawal symptoms, status epilepticus, or seizures (withdraw gradually). May cause drowsiness, hypotonia, and bronchial hypersecretion.Extemporaneous",
+        "Preparation": "A 0.1 mg/mL oral suspension may be made with tablets and one of three different vehicles (cherry syrup; a 11 mixture of Ora-Sweet and Ora-Plus; or a 11 mixture of Ora-Sweet SF and Ora-Plus). Crush six the chosen vehicle and mix to a uniform paste; mix while adding the vehicle in incremental proportions to almost 120 mL; transfer to a calibrated bottle, rinse mortar with vehicle, and add quantity of vehicle light. Stable for 60 days when stored in amber prescription bottles in the dark at room temperature or refrigerated.",
+        "References": "Allen LV Jr and Erickson MA 3rd. Stability of Acetazolamide, Allopurinol, Azathioprine, Clonazepam, and Flucytosine in Extemporaneously Compounded Oral Liquids. AJHP, 1996, 53(16)1944-9."
+    },
+    "Cosyntropin (Tetracosactide)": {
+        "Generic Name": "Cosyntropin (Tetracosactide)",
+        "Brand Name": "Cortrosyn, Synacthen",
+        "Indications": "Diagnostic test to differentiate primary adrenal from secondary",
+        "Dose": "0.015 mg/kg/dose.Congenital Adrenal Hyperplasia 1 mg/m2/dose up to a max. of 1 mg.",
+        "Route": "IV, IM",
+        "Levels and Metabolism": "Onset of action Plasma cortisol levels rise in healthy individuals in 5 min; Max. effect At 45-60 min after the dose. Plasma cortisol should be measured immediately before and 30 min after the dose; dose should be given in the early morning. Metabolism unknown.",
+        "Precautions": "Patient should not receive corticosteroids or spironolactone the day prior to and the day of the test. May cause bradycardia, tachycardia, hypertension, edema, and rash."
+    },
+    "Desmopressin Acetate": {
+        "Generic Name": "Desmopressin Acetate",
+        "Brand Name": "DDAVP, Minirin",
+        "Indications": "Treatment of diabetes insipidus.",
+        "Dose": "Neonates PO Initially 1-4 mcg 2-3 times daily, adjusted according to response.Intranasally Initially 0.1-0.5 mcg daily in 1-2 doses, adjusted according to response.   IM Initially 0.1mcg once daily, adjusted according to response.",
+        "Route": "PO, Intranasally, IM",
+        "Levels and Metabolism": "PO onset of antidiuretic hormone (ADH) action 1 hr; Maximum effect 2-7 hrs; Duration 6-8 hrs.Intranasally onset of ADH action within 1 hr; Maximum effect within 1.5 hrs; Duration 5-21 hrs.PO absorption 5-15% and nasal solution 10-20%. Metabolism is unknown and excretion is primarily in urine.",
+        "Precautions": "May cause edema, hyponatremia, seizures, nausea, and vomiting. osmolality, and serum electrolytes."
+    },
+    "Dexamethasone": {
+        "Generic Name": "Dexamethasone",
+        "Brand Name": "Decadron",
+        "Indications": "Cerebral edema, airway edema prior to extubation, and BPD to facilitate ventilator weaning.",
+        "Dose": "s may be administered slow IV push or PO.- Repeat courses may be indicated in selected infants with severe BPD.Airway Edema or Extubation IV Usual 0.25 mg/kg/dose given 4 hrs prior to scheduled extubation and then q 8 hrs for total of 3 doses; range 0.25-1 mg/kg/dose for 1-3 doses; max. dose 1mg/kg/day. Note A longer duration of therapy may be needed for more severe cases.",
+        "Route": "IV, IM, PO",
+        "Levels and Metabolism": "Terminal half-life in extremely low birth weight infants with BPD 9.3 hrs; metabolized in the liver and eliminated in urine and bile.",
+        "Precautions": "Data regarding neurodevelopmental outcome have been reported including increased risk of cerebral palsy. Suppressions of hypothalamic-pituitary-adrenal axis may occur. May suppress bone growth in children. Monitor for edema, hypertension, hyperglycemia, hypokalemia, muscle weakness, and GI bleeding."
+    },
+    "Diazepam": {
+        "Generic Name": "Diazepam",
+        "Brand Name": "Valium",
+        "Indications": "Status epilepticus, severe recurrent convulsive seizures, neonatal tetanus.",
+        "Dose": "Seizures 0.1-0.3 mg/kg/dose slow IV push, may repeat as needed every 15-30 min for 2-3 doses to a max. of 2 mg.Rectal 1.25-2.5 mg repeated once after 10 min if necessary.Neonatal Tetanus (for muscle spasms) 0.1-0.3 mg/kg slow IV push, may be repeat q1-4 hrs.",
+        "Route": "IV, PO, PR",
+        "Levels and Metabolism": "Well absorbed after PO and rectal administration. Metabolized in the liver to active metabolite. Half-life in neonates 50-95 hrs for diazepam and up to 100 hrs for the active metabolite. Metabolites excreted in the urine. Onset of action for IV 1-3 min and for rectal 2-10 min with a duration of 15-30min.",
+        "Precautions": "with caution in patients with low albumin, renal or hepatic dysfunction, and in neonates due to decreased clearance of diazepam and active metabolite. Rapid IV administration may cause sudden respiratory depression, apnea, and hypotension. Abrupt discontinuation may cause withdrawal symptoms or seizures."
+    },
+    "Diazoxide": {
+        "Generic Name": "Diazoxide",
+        "Brand Name": "Hyperstat",
+        "Indications": "Hyperinsulinemic hypoglycemia (such as nisidioblastosis).",
+        "Dose": "Initial 10 mg/kg/day in divided doses 2-3 times per day; Usual range 5-15 mg/kg/day, divided q 8-12 hrs. Start with higher dosage and taper according to response.",
+        "Route": "IV, PO",
+        "Levels and Metabolism": "Protein binding >90%. Half-life 10-24 hrs in infants; 50% excreted unchanged in urine. Hyperglycemic effect onset of action within 1 hr with duration of 8 hrs in normal renal function.",
+        "Precautions": "Positive responses are usually seen in 48-72 hrs. May cause excessive hair growth, seizures, hypotension, hyperglycemia, ketoacidosis, GI disturbances, arrhythmias, hyperuricemia, and sodium retention leading to edema and congestive heart failure. Use with caution in renal impairment."
+    },
+    "Digoxin": {
+        "Generic Name": "Digoxin",
+        "Brand Name": "Lanoxin",
+        "Indications": "Congestive heart failure (not useful in decompensated PDA in premature",
+        "Dose": "POIM or IVPOIM or IVPreterm 20-30 mcg/kg 15-25 mcg/kg 5-7.5 mcg/kg 4-6 mcg/kg Term  25-35 mcg/kg 20-30 mcg/kg 6-10 mcg/kg 5-8 mcg/kg Digitalize by giving 50% initially then give remainder divided into 2 doses q 6-12 hrs. Maintenance dose divided q12-24 hrs.",
+        "Route": "Onset of actionPeak actionPO 1-2 hrs 2-8 hrs IM 15-60 min 2-5 hrs IV 5-30 min 1-4 hrs Distribution phase 6-8 hrs; half-life 35-45 hrs in full term neonates and up to 170 hrs in premature neonates; 50-70% excreted unchanged in urine.",
+        "Levels and Metabolism": "Therapeutic trough level 0.8-2 ng/mL. Serum sampling recommended at steady state (after 5-8 days of therapy). Note Serum concentration must be used in conjunction with clinical symptoms and EKG. Neonates may have falsely elevated levels due to presence of digoxin like substances.",
+        "Precautions": "May cause bradycardia. Toxicity may be associated with arrhythmias. Use with caution in renal failure; dosage adjustment is required based on creatinine clearance. Electrolyte disturbances may increase risk of digoxin toxicity.Digoxin injection comes in a highly concentrated dosage form. Ensure special dilution is prepared to avoid medication errors related to overdosing."
+    },
+    "Dobutamine": {
+        "Generic Name": "Dobutamine",
+        "Brand Name": "Dobutrex",
+        "Indications": "Inotropic support in low cardiac output states, after cardiac surgery, shock, and hypotension.",
+        "Dose": "(mcg/kg/min)IV Rate (ml/kg/hr)8002.557.5100.190.380.560.7516002.557.5100.0940.190.280.3832002.557.5100.0470.0940.140.19  * For recommended standard concentrations and more details on calculations please  see the appendix.",
+        "Route": "IV",
+        "Levels and Metabolism": "Onset of action 1-10 min; Peak effect in 10-20 min; Half -life 2 min. Metabolized in the liver and tissues to inactive metabolites.",
+        "Precautions": "Potent drug, must be diluted prior to use. Administer using infusion pump. Hypovolemia should be corrected prior to use. May cause hypotension if patient is hypovolemic. Tachycardia, arrhythmias, and hypertension may occur at high doses.*Calculating infusion rate (mL/hr) ="
+    },
+    "Domperidone": {
+        "Generic Name": "Domperidone",
+        "Brand Name": "Motilium",
+        "Indications": "",
+        "Dose": "administration, the dosing frequency of domperidone should be reduced to once or twice daily depending on the severity of the impairment, and the dose may need to be reduced.Overdosing may cause extrapyramidal symptoms in young children.Close monitoring is needed in patients who are known to have existing prolongation of cardiac conduction intervals, particularly prolonged QT interval.",
+        "Route": "PO",
+        "Levels and Metabolism": "Eliminated by renal excretion; half-life is prolonged in severe renal impairment",
+        "Precautions": "It is contraindicated in moderate or severe hepatic impairment.",
+        "Preparation": "0ral suspension contains domperidone 1 mg/mL.",
+        "References": "1. Tighe M, Afzal NA, Bevan A, Hayen A, Munro A, Beattie RM. Pharmacological 2014 Nov 24;11CD008550. doi 10.1002/14651858.CD008550.pub2.2. Gounaris A1, Costalos C, Varchalama E, Kokori F, Grivea IN, Konstantinidi K, Syrogiannopoulos GA. Gastric emptying of preterm neonates receiving domperidone. Neonatology. 2010;97(1)56-60. doi 10.1159/000231517. Epub 2009 Jul 31."
+    },
+    "Dopamine": {
+        "Generic Name": "Dopamine",
+        "Brand Name": "Intropin",
+        "Indications": "",
+        "Dose": "(mcg/kg/min)IV Rate (ml/kg/hr)8002.557.5100.190.380.560.7516002.557.5100.0940.190.280.3832002.557.5100.0470.0940.140.19* For recommended standard concentrations and more details on calculations please       see the appendix.",
+        "Route": "IV",
+        "Levels and Metabolism": "Metabolized rapidly in plasma, kidneys, and liver; 25% to norepinephrine. Half-life 2 min.",
+        "Precautions": "Must be diluted prior to use. Hemodynamic effects should be monitored. Dopamine must not be used as sole therapy in hypovolemic patients. Extravasation may cause tissue necrosis. Do not administer into an umbilical arterial catheter. May cause tachycardia and arrhythmias and increase pulmonary artery pressure. *Calculating infusion rate (mL/hr) ="
+    },
+    "Enalapril/ Enalaprilat": {
+        "Generic Name": "Enalapril/ Enalaprilat",
+        "Brand Name": "Vasotec",
+        "Indications": "Mild-severe hypertension and afterload reduction in CHF.",
+        "Dose": "Enalapril (PO) Initial 0.01 mg/kg/day, every 24 hrs; increase dose and interval as required every few days to up to 0.1 mg/kg/day divided in 1-3 doses.Enalaprilat (IV) 5-10 mcg/kg/dose, every 8-24 hrs.",
+        "Route": "PO, IV",
+        "Levels and Metabolism": "Enalapril is a prodrug (inactive) and undergoes biotransformation to enalaprilat (active) in the liver. PO absorption 55-75%. Onset of action 1-2 hrs (PO) and duration 8-24 hrs (PO, IV).Elimination up to 80% in the urine.",
+        "Precautions": "Use with caution in renal impairment. Oliguria and increased serum creatinine occur frequently. May cause hypotension (especially in volume depleted patients), hypoglycemia, hyperkalemia, and bone marrow suppression.Extemporaneous",
+        "Preparation": "A 1 mg/mL oral suspension may be made with tablets and one of three different vehicles (cherry syrup, a 11 mixture of Ora-Sweet and Ora-Plus, or a 11 mixture of Ora-Sweet SF and Ora-Plus). Crush six 20 mg tablets in a to a uniform paste; mix while adding the vehicle in incremental proportions to almost 120 mL; transfer to a calibrated bottle, rinse mortar with vehicle, and protect from light. Stable for 60 days when stored in amber plastic prescription bottles in the dark at room temperature or refrigerated.A more dilute, 0.1 mg/mL oral suspension may be made with tablets and an isotonic buffer solution at pH 5. Grind one 20 mg tablet in a glass mortar and protect from light, and refrigerate. Stable for 90 days.",
+        "References": "1. Allen LV Jr and Erickson MA 3rd. Stability of Alprazolam, Chloroquine Phosphate, Cisapride, Enalapril Maleate, and Hydralazine Hydrochloride in Extemporaneously Compounded Oral Liquids. AJHP, 1998, 55(18)1915-20.2. Boulton DW, Woods DJ, Fawcett JP, et al. The Stability of an Enalapril Maleate Oral Solution Prepared From Tablets. Aust J Hosp Pharm, 1994, 24(2)151-6."
+    },
+    "Enoxaparin": {
+        "Generic Name": "Enoxaparin",
+        "Brand Name": "Lovenox",
+        "Indications": "A low molecular weight heparin (LMWH) used as prophylaxis and treatment of thromboembolic disorders.",
+        "Dose": "Prophylaxis 0.75 mg/kg q 12 hrs.Treatment 1.5 mg/kg q 12 hrs.",
+        "Route": "SubQ",
+        "Levels and Metabolism": "Based on antifactor Xa and anithromin activities Max. effect after SubQ 3-5 hrs; Duration ~12 hrs. Metabolized primarily in the liver. Excreted in urine as active and inactive products.",
+        "Precautions": "Bleeding or thrombocytopenia may occur. Use with caution in patients with increased risk of bleeding, history of heparin-induced thrombocytopenia, and severe renal dysfunction. Reference range for antifactor Xa 0.5-1 Unit/mL measured 4-6 hours after SubQ administration. Preterm infants may require a higher dose of 2 mg/kg q 12 hrs to maintain target levels."
+    },
+    "Epinephrine": {
+        "Generic Name": "Epinephrine",
+        "Brand Name": "Adrenalin",
+        "Indications": "Cardiac asystole or profound bradycardia and hypotension, acute cardiovascular collapse, short-term use in cardiac failure resistant to other drugs. In older infants may be used subcutaneously for relief of bronchospasm.",
+        "Dose": "(mcg/kg/min) x Weight (kg) x 60 min/hrConcentration (mcg/mL)* For recommended standard concentrations and more details on calculations please see the appendix.",
+        "Route": "IV, ET",
+        "Levels and Metabolism": "Metabolized in the liver and other tissues.",
+        "Precautions": "Cardiac arrhythmias may occur, particularly premature ventricular contractions and ventricular tachycardia. Renal vascular ischemia, severe hypertension with intracranial hemorrhage, and increased myocardial oxygen requirements. Therapeutic doses may cause *Calculating infusion rate (mL/hr) ="
+    },
+    "Erythromycin": {
+        "Generic Name": "Erythromycin",
+        "Brand Name": "E.E.S., Pediamycin",
+        "Indications": "Infections caused by Chlamydia, Mycoplasma, and Ureaplasma. Treatment of and prophylaxis against B. pertussis. As a prokinetic in cases of feeding intolerance. Ophthalmic ointment used to prevent gonococcal ophthalmia neonatorum.",
+        "Dose": "PO Ethylsuccinate (EES) PNA >7 days, < 1200 g 20 mg/kg/day, divided q 12 hrs.PNA >7 days, 1200-2000 g 30 mg/kg/day, divided q 8 hrs.PNA >7 days, > 2000 g 30-40 mg/kg /day, divided q 6-8 hrs.        Ophthalmic Prophylaxis of Neonatal Gonococcal Ophthalmia 0.5-1 cm ribbon of ointment instilled into each conjunctival sac once.Chlamydial Conjunctivitis and Pneumonia PO (EES) 50 mg/kg/day, divided q 6 hrs.IV Lactobionate 25-40 mg/kg/day, divided q 6 hrs.Feeding Intolerance (Dysmotility) 3-10 mg/kg/dose PO q 6 hrs. Start at lower dose then increase.",
+        "Route": "PO, IV, Topical (Ophthalmic)",
+        "Levels and Metabolism": "Absorption variable but better with salt forms; 18-45% absorbed; EES may be better absorbed with food. Distributes into the body tissues, liver, and bile. Penetrates poorly into the CNS. Metabolized in the liver. Half-life 2 hrs. Eliminated through the bile.",
+        "Precautions": "Use with caution in patients with hepatic impairment. May cause prolongation of QT interval and ventricular arrhythmias. Monitor heart rate and blood pressure closely during IV administration; observe eosinophilia. May potentiate effects of drugs metabolized through cytochrome P450 isoenzyme CYP1A2 and CYP3A4 (such as digoxin, theophylline, midazolam)."
+    },
+    "Erythropoietin (Epoetin Alfa)": {
+        "Generic Name": "Erythropoietin (Epoetin Alfa)",
+        "Brand Name": "Epogen, Procrit",
+        "Indications": "Anemia and to decrease the need for erythrocyte transfusions in high-risk preterm infants.",
+        "Dose": "25-100 Units/kg/dose 3 times/week or 100 Units/kg/dose 5 times/week or 200 Units/kg/dose every other day for 10 doses.",
+        "Route": "SubQ, IV",
+        "Levels and Metabolism": "SubQ absorption 30%; distributes rapidly in plasma; majority of drug taken up by liver, kidneys, and bone marrow. Half-life 12-18 hrs.",
+        "Precautions": "Subcut administration results in 30-50% lower dose requirements compared to IV administration. Use with caution in patients with seizures. May cause hypertension, neutropenia, and irritation at injection site."
+    },
+    "Famotidine": {
+        "Generic Name": "Famotidine",
+        "Brand Name": "Pepcid",
+        "Indications": "Prevention and treatment of stress ulcer and GI bleeding aggravated by gastric acid secretion.",
+        "Dose": "adjustment required in renal impairment.",
+        "Route": "IV, PO",
+        "Levels and Metabolism": "PO bioavailability 50%. Metabolized by the liver (30%). Half-life ~10 hrs; 60-70% of dose eliminated unchanged in urine.",
+        "Precautions": "May cause diarrhea or constipation."
+    },
+    "Fentanyl": {
+        "Generic Name": "Fentanyl",
+        "Brand Name": "Sublimaze",
+        "Indications": "Analgesia, short term sedation, adjunct to general anesthesia.",
+        "Dose": "(mcg/kg/hr) x Weight (kg) Concentration (mcg/mL)* For recommended standard concentrations and more details on calculations please see the appendix.",
+        "Route": "IV",
+        "Levels and Metabolism": "Highly lipophilic, redistributes into muscle and fat. Metabolized extensively in the liver then excreted by the kidney.",
+        "Precautions": "Physical and psychological dependence may occur with prolonged use; abrupt discontinuation may result in withdrawal and seizures. Rapid IV infusion may result in skeletal muscle and chest wall rigidity, respiratory distress and impaired ventilation. Inject slowly over 3-5 minutes; nondepolarizing skeletal muscle relaxant may be required. Use with caution in bradycardia, renal failure, and increased intracranial pressure. 50-100 times more potent than morphine on a weight basis. *Calculating infusion rate (mL/hr) ="
+    },
+    "Ferrous Sulfate": {
+        "Generic Name": "Ferrous Sulfate",
+        "Brand Name": "Fer-In-Sol",
+        "Indications": "",
+        "Dose": "expressed as elemental iron (Fe)Prophylaxis 2-4 mg Fe/kg/day. Give in 1-2 divided doses per day.Therapeutic 6 mg Fe/kg/day. Give in 1-2 divided doses per day.Maximum dose 15 mg/day.",
+        "Route": "PO",
+        "Levels and Metabolism": "Absorbed in the duodenum and upper jejunum; 20-30% absorbed in conditions of inadequate iron stores and 10% in normal iron stores. Food and achlorhydria decrease absorption.",
+        "Precautions": "constipation, black stools, lethargy, hypotension, erosion of gastric mucosa may occur."
+    },
+    "Fluconazole": {
+        "Generic Name": "Fluconazole",
+        "Brand Name": "",
+        "Indications": "Systemic fungal infections including meningitis due to Candida species.",
+        "Dose": "6 mg/kg on day 1, then 3 mg/kg/dose q 24 hrs. Duration of therapy depends on type of infection and may range from 14 to 28 days. For meningitis duration is 10-12  weeks after CSF culture becomes negative.Prophylaxis 3 mg/kg/dose twice weekly.",
+        "Route": "PO, IV",
+        "Levels and Metabolism": "Well absorbed orally with oral bioavailability >90%; Widely metabolism; 80% eliminated unchanged in the urine.",
+        "Precautions": "Use with caution in patients with renal impairment; dosage adjustment required. May cause QT prolongation, elevated liver enzymes, nausea, vomiting, diarrhea, rash, leukopenia, and thrombocytopenia. Monitor for drug interactions with drugs that are metabolized through the Cytochrome P450 system."
+    },
+    "Flucytosine (5-FC)": {
+        "Generic Name": "Flucytosine (5-FC)",
+        "Brand Name": "Ancobon",
+        "Indications": "Systemic fungal infections in combination with Amphotericin B or",
+        "Dose": "50 mg/kg q 12 hrs; given for 2-6 weeks.",
+        "Route": "PO, IV",
+        "Levels and Metabolism": "Therapeutic levels 25-50 mcg/mL. Obtain trough immediately before the next dose. Maintain trough  25mcg/mL to prevent emergence of resistance. Minimal hepatic metabolism. Eliminated unchanged in the urine.",
+        "Precautions": "Toxicity related to serum concentrations above 80 mcg/ml; use with caution in patients with renal impairment; dosage adjustment required. May cause enterocolitis, nausea, vomiting, diarrhea, rash, anemia, leukopenia, thrombocytopenia, elevated liver enzymes, increased BUN or creatinine, and CNS derangements."
+    },
+    "Folic Acid": {
+        "Generic Name": "Folic Acid",
+        "Brand Name": "Folvite",
+        "Indications": "",
+        "Dose": "Premature infants 50 mcg/24 hrs (~15 mcg/kg/24 hrs).",
+        "Route": "IV, IM, PO, SubQ",
+        "Levels and Metabolism": "Total folate Serum levels 5-15 ng/mL.",
+        "Precautions": "May cause allergic reactions. Large doses may mask the hematologic of neurologic abnormalities."
+    },
+    "Furosemide": {
+        "Generic Name": "Furosemide",
+        "Brand Name": "Lasix",
+        "Indications": "oliguria not secondary to hypovolemia, and in infants with BPD.",
+        "Dose": "(mg/kg/hr) x Weight (kg) Concentration (mg/mL)* For recommended standard concentrations and more details on calculations please see the appendix.",
+        "Route": "IV, IM, PO",
+        "Levels and Metabolism": "Onset of action 30-60 min (PO), 30 min (IM), 5 min (IV). Absorption 65% with normal renal function; duration of effect ~6 hrs. Eliminated primarily unchanged in the urine.",
+        "Precautions": "May cause sodium, calcium and potassium depletion, dehydration, and hypochloremic metabolic alkalosis. Hypercalciuria and development of renal calculi with chronic therapy. Ototoxicity, including both transient and permanent hearing loss. Increased risk of deafness in presence of renal failure and with aminoglycoside use. In infants on digoxin, potassium depletion may exacerbate digoxin toxicity. Displaces bilirubin from albumin especially in doses greater than 1 mg/kg.*Calculating infusion rate (mL/hr) ="
+    },
+    "Filgrastim (G-CSF)": {
+        "Generic Name": "Filgrastim (G-CSF)",
+        "Brand Name": "Neupogen",
+        "Indications": "Neutropenia, ANC < 500.",
+        "Dose": "IV, SubQ 5-10 mcg/kg/day. Give once daily until ANC >1000 or 5 doses have been given.",
+        "Route": "IV, SubQ",
+        "Levels and Metabolism": "Onset of action immediate, transient leukopenia followed by a sustained elevation in neutrophils within 24 hrs.",
+        "Precautions": "May cause low grade fever, mild anemia, and mild decreases in platelets."
+    },
+    "Gentamicin": {
+        "Generic Name": "Gentamicin",
+        "Brand Name": "Garamycin",
+        "Indications": "Infections caused by susceptible gram negative organism (such as E. colli, Pseudomonas, Proteus). Used in combination with ampicillin as empiric therapy for newborn sepsis.",
+        "Dose": "(mg/kg)Interval (hrs)0 to 78 to 2854448362430 to 340 to 74.543624All424Administer over 15-30 min. Intraventitricular/Intrathecal 1 mg/day (use preservative free preparation)",
+        "Route": "IV, IM, IT/IVT",
+        "Levels and Metabolism": "Therapeutic Drug MonitoringPeak 5-10 mcg/mL; drawn 30 min after the end of a 30 min IV-infusion or 1 hr after an IM injection.  Trough 0.5-2 mcg/mL; drawn within 30min before next dose.  Serum concentrations should be checked with third dose.tissue; poor penetration into the CSF. Accumulates in the renal cortex. Volume of distribution increases in neonates with fever, edema, ascites, in urine.",
+        "Precautions": "May cause ototoxicity (vertigo or deafness) and nephrotoxicity at high serum levels. Causes destruction of cochlear hair cells and vestibular sensory cells. Deafness is usually irreversible. May potentiate effects of neuromuscular blocking agents and aggravate effect of hypermagnesemia."
+    },
+    "Glucagon Band NameGlucagen": {
+        "Generic Name": "Glucagon Band NameGlucagen",
+        "Indications": "Hypoglycemia, refractory to dextrose infusion.",
+        "Dose": "(mcg/kg/hr) x Weight (kg)Concentration (mcg/mL) * For recommended standard concentrations and more details on calculations please see the appendix.",
+        "Route": "IV, IM, SubQ",
+        "Levels and Metabolism": "Onset of action 8-10 min (IM) and 1min (IV); Duration 12-27 min (IM) and 9-17 (IV). Extensively degraded in liver and kidneys. Half-life 6-8 min.",
+        "Precautions": "May deplete glycogen stores. At high doses cardiac stimulatory effects. May cause nausea, vomiting, and respiratory distress.1 unit of glucagon = 1 mg of glucagon*Calculating infusion rate (mL/hr) ="
+    },
+    "Heparin": {
+        "Generic Name": "Heparin",
+        "Brand Name": "Multiparin",
+        "Indications": "Anticoagulation to maintain patency of peripheral and central catheters,  treatment of thrombosis.",
+        "Dose": "(Units/kg/hr) x Weight (kg) Concentration (Units/mL) * For recommended standard concentrations and more details on calculations please see the appendix.",
+        "Route": "IV",
+        "Levels and Metabolism": "Adjust dosing to maintain APTT of 60-85 seconds (1.5-2.5 times control value). Obtain blood for APTT 4 hrs after heparin loading dose and 4 hrs after every infusion rate change. Metabolized by liver. Excretion by kidneys should occur within 6 hrs, but may be delayed. Half-life is dose-dependent, but averages 1-3 hrs.",
+        "Precautions": "May cause hemorrhage, allergy, thrombocytopenia, elevated liver enzymes. Antidote Avoid in infants with evidence of intracranial or gastrointestinal bleeding, or thrombocytopenia (less than 50,000/ mm3). *Calculating infusion rate (mL/hr) ="
+    },
+    "Hyaluronidase": {
+        "Generic Name": "Hyaluronidase",
+        "Brand Name": "Wydase",
+        "Indications": "Hyaluronidase is a protein enzyme that enhances the permeability of tissue, facilitatingextravasation of IV solutions, especially hypertonic solutions or aminophylline.",
+        "Dose": "Give SubQ or intradermally 1 mL (150 Units) as 5 separate 0.2-ml injections around the periphery of extravasation site. Use 25 or 26-gauge needle and change needle after each injection. Approach lesion from periphery and beneath - do not inject directly into the affected area. Use within 1 hr of extravasation for best results.",
+        "Route": "SubQ",
+        "Levels and Metabolism": "Onset of action immediate. Duration 24-48 hrs.",
+        "Precautions": "dopamine, epinephrine, and norepinephrine."
+    },
+    "Hydralazine": {
+        "Generic Name": "Hydralazine",
+        "Brand Name": "Apresoline",
+        "Indications": "Hypertension, afterload reduction in patients with congestive heart failure.",
+        "Dose": "(mcg/kg/hr) x Weight (kg)Concentration (mcg/mL) * For recommended standard concentrations and more details on calculations please see the appendix.",
+        "Route": "IV, IM, PO",
+        "Levels and Metabolism": "Onset of action 20-30 min (PO) and 5-20 min (IV). Duration 2-4 hrs Metabolized by the liver; 14% eliminated unchanged in urine.",
+        "Precautions": "Lupus-like syndrome, blood dyscrasias (anemia, agranulocytosis), tachycardia, nasal congestion, diarrhea, and emesis. *Calculating infusion rate (mL/hr) ="
+    },
+    "": {
+        "Generic Name": "",
+        "Brand Name": "Viagra, Revatio",
+        "Indications": "Persistent pulmonary hypertension refractory to inhaled nitric oxide, for those unable to be weaned off of nitric oxide, or in situations where nitric oxide is unavailable.",
+        "Dose": "0.3-1 mg/kg/dose q 6-12 hrs.",
+        "Route": "PO",
+        "Levels and Metabolism": "Rapid PO absorption; 40% bioavailability. Distributes well into tissue. Protein binding 96%. Metabolized in the liver; metabolite has 50% of as metabolites in feces",
+        "Precautions": "Monitor blood pressure and oxygenation.  Rare cases of sudden vision loss due to nonarteritic ischemic optic neuropathy have been reported.Extemporaneous",
+        "Preparation": "and either a 11 mixture of methylcellulose 1% and simple syrup NF portions of chosen vehicle and mix to a uniform paste; mix while adding vehicle in incremental proportions to almost 300 mL; transfer to a graduated cylinder, rinse mortar with vehicle, and add quantity of vehicle shake well. Stable for 90 days at room temperature or refrigerated.",
+        "References": "Oral Suspensions for the Treatment of Pulmonary Hypertension in Children. AJHP, 2006, 63(3)254-7."
+    },
+    "Hydrochlorothiazide": {
+        "Generic Name": "Hydrochlorothiazide",
+        "Brand Name": "Esidrix, Hydrodiuril",
+        "Indications": "Diuresis in mild to moderate edema and mild to moderate hypertension. Effects potentiated when used with furosemide or spironolactone. May improve pulmonary function in patients with BPD.",
+        "Dose": "1-2 mg/kg/dose q 12 hrs PO.",
+        "Route": "PO",
+        "Levels and Metabolism": "Rapidly absorbed from GI tract. Onset of action within 2 hrs. Half-life dependent on GFR. Eliminated unchanged in urine.",
+        "Precautions": "May cause hypokalemia, hyperglycemia, and hyperuricemia. Do not use Extemporaneous",
+        "Preparation": "A 10 mg/mL oral syrup can be made with tablets. Crush forty 25 mg Hydrochlorothiazide tablets into a powder using a mortar and pestle. Mix with simple syrup vehicle and q.s. to 100 mL. Stable for 60 days in refrigerator.",
+        "References": "Hydrochlorothiazide 10 mg per mL Oral Syrup. International Journal of Pharmaceutical Compounding, Nov/Dec 2005, 9(6)."
+    },
+    "Hydrocortisone": {
+        "Generic Name": "Hydrocortisone",
+        "Brand Name": "Cortef, SoluCortef",
+        "Indications": "allergic reaction, neonatal hypoglycemia refractory to other treatments.",
+        "Dose": "s 25-50 mg/m2/day IV or IM divided q 6 hrs; 75 mg/m2/day PO divided q 6-8 hrs.Acute Adrenal Crisis 50 mg/m2 IV bolus followed by 50 mg/m2 divided q 6-8 hrs.Neonatal Hypoglycemia IV/PO 5 mg/kg/day, divided q 8-12 hrs or 1-2 mg/kg/dose q 6 hrs.",
+        "Route": "IV, IM, PO",
+        "Levels and Metabolism": "Absorption is rapid; Half-life 8-12 hrs; Metabolized in the liver and eliminated in the urine.",
+        "Precautions": "In acute use may mask signs of infection or exacerbate systemic fungal infections. Chronic use may cause growth failure, peptic ulcer, hypertension, sodium and water retention, increased excretion of potassium, and bone demineralization. For body surface area (BSA) calculation see appendix.Extemporaneous",
+        "Preparation": "A 2 mg/mL oral suspension can be made with tablets. Crush ten 20 minimal amount of 11 Ora-Plus/Ora-Sweet as a vehicle to form a viscous but smooth and uniform mixture. Continue adding the vehicle in incremental proportions to almost 100 mL; transfer to a calibrated bottle, rinse mortar refrigerated (preferred) or at room temperature. Shake well before use.",
+        "References": "1. Chong G, et al, Stability of Hydrocortisone in Extemporaneously Compounded Suspensions, J Inform Pharmacother, 2003;13100-110.2. Nationwide Childrens Hospital and Toronto Childrens Hospital for Sick Children Experience since 2004.3. Fawcett JP, Boulton DW, Jiang R, Woods DJ. Stability of Hydrocortisone Oral Suspensions Prepared from Tablets and Powder. Ann of Pharma, 1995;29987-90."
+    },
+    "Ibuprofen Lysine": {
+        "Generic Name": "Ibuprofen Lysine",
+        "Brand Name": "Neoprofen",
+        "Indications": "Closure of the ductus arteriosus (PDA) for premature infants at age 2 days or greater",
+        "Dose": "Initial dose 10 mg/kg/dose followed by 2 doses of 5 mg/kg/dose given 24 hours and 48 hours after the initial dose. Administer over 15 minutes. Use birth weight to calculate all doses. Hold second and third doses if urine output is <0.6 mL/kg/hr; may give when renal function improves.",
+        "Route": "IV",
+        "Levels and Metabolism": "Ibuprofen is 95% protein bound and has a volume of distribution of 320 mL/kg. The metabolism and excretion of ibuprofen have not been well studied in preterm infants.",
+        "Precautions": "Ibuprofen is contraindicated in premature neonates with at least one of the following 1. Proven or suspected infection that is untreated2. Congenital heart disease in which patency of the ductus arteriosus is necessary for satisfactory pulmonary or systemic 3. Active bleeding, especially intracranial hemorrhage or gastrointestinal bleeding 4. Thrombocytopenia5. Coagulation defects6. Suspected NEC7."
+    },
+    "Imipenem and Cilastatin": {
+        "Generic Name": "Imipenem and Cilastatin",
+        "Brand Name": "Primaxin",
+        "Indications": "Effective against most gram-negative and gram-positive bacteria, both aerobes and anaerobes, including Pseudomonas aeruginosa and Bacteroides fragilis. Marked activity against species producing Beta-lactamases. Should be reserved for use against organisms that are resistant to the usual antibiotics.",
+        "Dose": "adjustment required in renal impairment. May cause nausea, vomiting, diarrhea, skin rash, phlebitis, eosinophilia, and transient elevation of liver function tests.",
+        "Route": "IV",
+        "Levels and Metabolism": "Low CSF penetration; Half-life 1.5-3 hrs. Renal metabolism and excretion; 70-80% as unchanged in the urine.",
+        "Precautions": "Use with caution in patients with seizures."
+    },
+    "Indomethacin": {
+        "Generic Name": "Indomethacin",
+        "Brand Name": "Indocin",
+        "Indications": "Closure of patent ductus arteriosus, prevention of intraventricular hemorrhage.",
+        "Dose": "Treatment of PDA Usually 3 doses per   course Age at 1st dose 1st dose 2nd dose 3rd dose < 48 hrs 0.2 mg/kg 0.1 mg/kg 0.1 mg/kg 2-7 days 0.2 mg/kg 0.2 mg/kg 0.2 mg/kg > 7 days 0.2 mg/kg 0.25 mg/kg 0.25 mg/kg Give doses 12-24 hrs apart.Longer treatment courses maybe used 0.2 mg/kg/day for up to 5-7 days.gestational age 0.1 mg/kg q 24 hrs for 3 doses beginning at 6-12 hrs of age.",
+        "Route": "IV",
+        "Levels and Metabolism": "Metabolized in the liver and eliminated in the feces and urine.  Half-life ranges between 11-20 hrs.",
+        "Precautions": "May cause transient decrease in urine output. If anuria or severe oliguria occurs, doses should be delayed. May cause hyponatremia, hypokalemia and hypoglycemia. Causes platelet"
+    },
+    "Insulin (Regular)": {
+        "Generic Name": "Insulin (Regular)",
+        "Brand Name": "Humlin, Novolin",
+        "Indications": "Hyperglycemia in very-low-birth weight infants with persistent glucose intolerance, adjuvant therapy for hyperkalemia.",
+        "Dose": "(Units/kg/hr) x Weight (kg) Concentration (Units/mL) * For recommended standard concentrations and more details on calculations please see the appendix.",
+        "Route": "IV, SubQ",
+        "Levels and Metabolism": "Plasma half-life is ~9 min (adults). Degraded in the liver and kidney.",
+        "Precautions": "Neonates are very sensitive to hypoglycemia; start at lower end of dose and monitor serum glucose closely. Check blood glucose levels every 15-30 minutes after initiation of insulin infusion and after changes in infusion rate. *Calculating infusion rate (mL/hr) ="
+    },
+    "Intravenous Immune Globulin (IVIG)": {
+        "Generic Name": "Intravenous Immune Globulin (IVIG)",
+        "Brand Name": "Octagam",
+        "Indications": "Hypogammaglobulinemia, alloimmune thrombocytopenia.",
+        "Dose": "Hypogammaglobulemia Usual dose 0.5 g/kg as single dose every 4 weeks. Alloimmune thrombocytopenia 0.4-1 g/kg as single dose infused over 6 hrs.Severe hemolysis (Rh or ABO iso) When the total serum bilirubin levels approach or surpass the exchange transfusions limits  0.5-1 g/kg can be repeated 2-3 times.",
+        "Route": "IV",
+        "Levels and Metabolism": "Maintain trough IgG  500 mg/dL.Half-life 21-29 days.",
+        "Precautions": "May cause volume overload, infuse over 2-6 hours, monitor for infusion related side effects (hypersensitivity reaction.). May cause acute renal failure. Start infusion at 0.01 mL/kg/min; double rate q 15-30 min, up to a max of 0.08 mL/kg/min (refer to individual IVIG product for administration guidelines)."
+    },
+    "Ipratropium": {
+        "Generic Name": "Ipratropium",
+        "Brand Name": "Atrovent",
+        "Indications": "Anticholinergic bronchodilator. Used for bronchospasm in infants with bronchopulmonary dysplasia (BPD).",
+        "Dose": "25 mcg/kg/dose 3 times a day.",
+        "Route": "Nebulization",
+        "Levels and Metabolism": "Not readily absorbed into the systemic circulation from the lung or GIT. Following inhalation 15% of dose reaches the lower airways. Onset of action 1-3 min; peak effect ~2 hrs; duration ~4-6 hrs.",
+        "Precautions": "May cause palpitation and tachycardia."
+    },
+    "Isoproterenol": {
+        "Generic Name": "Isoproterenol",
+        "Brand Name": "Isuprel",
+        "Indications": "Cardiovascular shock, impaired cardiac output with bradycardia, and as pulmonary vasodilator (older infants).",
+        "Dose": "(mcg/kg/min) x Weight (kg) x 60 min/hrConcentration (mcg/mL) * For recommended standard concentrations and more details on calculations please see the appendix.",
+        "Route": "IV",
+        "Levels and Metabolism": "Metabolized in the liver and lungs; Half-life 2-5 min.",
+        "Precautions": "May cause hypoglycemia, arrhythmias, tachycardia severe enough to cause CHF, systemic vasodilatation, decreases venous return to the heart, hypoxemia by increasing intrapulmonary shunting and tissue *Calculating infusion rate (mL/hr) ="
+    },
+    "Ketamine": {
+        "Generic Name": "Ketamine",
+        "Brand Name": "Ketalar",
+        "Indications": "Anesthesia, analgesia for short surgical procedures before intubation.",
+        "Dose": "IM 4 mg/kg; IV 0.5-2 mg/kg.",
+        "Route": "IV, IMLevels and metabolism Onset of action 3-4 min (IM) and 30 seconds (IV); Duration 12-25 min (IM) and 5-10 min (IV). Metabolized in the liver; Half-life 10-15 min.",
+        "Precautions": "May cause hypertension, hypotension, seizures, increases ICP, laryngospasm, and stimulation of salivary secretions."
+    },
+    "Levetiracetam": {
+        "Generic Name": "Levetiracetam",
+        "Brand Name": "Keppra",
+        "Indications": "Neonatal seizures.",
+        "Dose": "adjustment needed in renal impairment. May cause vomiting, diarrhea, and somnolence.",
+        "Route": "IV, POLevels and metabolism Oral absorption rapid and complete; Bioavailability ~100%. Metabolism is not extensive; ~70% excreted unchanged in urine and the remainder as inactive metabolites.",
+        "Precautions": ""
+    },
+    "Levothyroxine (T4)": {
+        "Generic Name": "Levothyroxine (T4)",
+        "Brand Name": "Synthroid",
+        "Indications": "Congenital or acquired hypothyroidism.",
+        "Dose": "PO 10-15 mcg/kg/dose daily.IV, IM 50-75% of PO dose.",
+        "Route": "PO, IV, IM",
+        "Levels and Metabolism": "PO absorption erratic (40-80%). Metabolism liver and peripheral sites to triiodothyronine (active). Half-life 6-7 days. Eliminated in the urine and feces.",
+        "Precautions": "Monitor TSH and T4 after 2 weeks of therapy. Assess for signs of hypothyroidism and thyrotoxicosis.  Give oral doses one hour before or 2 hrs after feeds, preferably in the morning.Extemporaneous",
+        "Preparation": "A 25 mcg/mL oral suspension may be made with tablets and 40 mL uniform suspension. Transfer to a calibrated 100 mL amber bottle; rinse the mortar with about 10 mL of glycerol and pour into the bottle; repeat make 100 mL. Label shake well and refrigerate. Stable for 8 days refrigerated.",
+        "References": "Boulton DW, Fawcett JP, and Woods DJ. Stability of an Extemporaneously Compounded Levothyroxine Sodium Oral Liquid. AJHP, 1996; 53(10)1157-61."
+    },
+    "Lidocaine": {
+        "Generic Name": "Lidocaine",
+        "Brand Name": "Xylocaine",
+        "Indications": "Ventricular arrhythmias premature ventricular contractions, ventricular",
+        "Dose": "(mcg/kg/min) x Weight (kg) x 60 min/hrConcentration (mcg/mL) * For recommended standard concentrations and more details on calculations please see the appendix.",
+        "Route": "IV",
+        "Levels and Metabolism": "Onset of action 45-90 seconds; Duration 10-20 min; Protein binding 60-80%; Metabolized in the liver to active metabolite; Half-life up to 3 hrs. <10% eliminated unchanged in the urine.",
+        "Precautions": "May cause CNS toxicity, seizures and cardiac toxicity. Use with caution in hepatic or renal disease due to potential accumulation of toxic levels. *Calculating infusion rate (mL/hr) ="
+    },
+    "Lorazepam": {
+        "Generic Name": "Lorazepam",
+        "Brand Name": "Ativan",
+        "Indications": "Seizures, sedation",
+        "Dose": "0.05-0.1 mg/kg over 2-5 min, may be repeated in 10-15 min.",
+        "Route": "IV, IM, PO",
+        "Levels and Metabolism": "Onset of action 5 min. Mean half-life 40 hrs; Metabolized in the liver.",
+        "Precautions": "May cause respiratory depression. Neurotoxicity and myoclonus have been reported. Antidote Flumazenil 0.01 mg/kg/dose IV push. May repeat every minute for up to 4 more doses."
+    },
+    "Magnesium Sulfate": {
+        "Generic Name": "Magnesium Sulfate",
+        "Indications": "Hypomagnesemia, hypocalcemia, torsade de pointes (polymorphic ventricular tachycardia), and severe persistent pulmonary hypertension of the newborn unresponsive to other vasodilation management, if nitric oxide is not available.",
+        "Dose": "Hypomagnesemia 25-100 mg/kg/dose (0.2-0.8 mEq/kg/dose) IV q 8-12 hrs for 2-3 doses.Maintenance 0.25-0.5 mEq/kg/day IV.Hypocalcemia 100 mg/kg IV q12 hrs for 2-3 doses.",
+        "Route": "IV, IM",
+        "Precautions": "May cause heart block, CNS and respiratory depression, hypotension, intestinal ileus, urinary retention, hypotonia and hypermagnesemia. Monitor magnesium level."
+    },
+    "MCT Oil": {
+        "Generic Name": "MCT Oil",
+        "Indications": "Caloric supplementation for patients who cannot digest long chain fats.",
+        "Dose": "Initial 0.5 ml every other feeding, then advance to every feeding. Increase in increments of 0.25-0.5 ml per feeding at intervals of 2-3 days as tolerated.  1 ml = 0.93 g = 7.6 calories.",
+        "Route": "PO",
+        "Levels and Metabolism": "Up to 30% absorbed unchanged as triglyceride; almost completely oxidized by liver to acetyl COA and carbon dioxide; 20% eliminated in expired CO2 in 50 min; <10% in feces.",
+        "Precautions": "May cause sedation, ketosis, abdominal pain, and diarrhea. Does not provide essential fatty acids."
+    },
+    "Meropenem": {
+        "Generic Name": "Meropenem",
+        "Brand Name": "Merrem",
+        "Indications": "Treatment of multidrug resistant gram negative and gram positive aerobic and anaerobic pathogens.",
+        "Dose": "20 mg/kg/dose q 12 hrs.PNA > 7days 1200-2000 g 20 mg/kg/dose q 12 hrs.> 2000 g 20 mg/kg/dose q 8 hrs.Miningitis 40 mg/kg/dose q 8 hrs.",
+        "Route": "IV",
+        "Levels and Metabolism": "lung tissue; 20% hydrolyzed in the plasma to inactive metabolite; half-life 2-3 hrs; 70% excreted in urine unchanged.",
+        "Precautions": "Use with caution in patients with history of seizures and renal impairment. May cause diarrhea and hypotension. Monitor for - Thrombocytosis and eosinophilia with prolonged use.- Renal function - increase dose interval in renal failure. - Hepatic function  at the beginning of treatment and weekly thereafter.  - Vomiting and pseudomembranous colitis  consider alternate antibiotic."
+    },
+    "Metoclopramide": {
+        "Generic Name": "Metoclopramide",
+        "Brand Name": "Reglan",
+        "Indications": "Facilitate gastric emptying and GI motility.",
+        "Dose": "0.03-0.2 mg/kg/dose given q 6-8 hrs PO or IV.",
+        "Route": "IV, PO",
+        "Levels and Metabolism": "unchanged in urine.",
+        "Precautions": "Intended for short-term use only (several weeks). Dystonic reactions and extrapyramidal signs may be seen with prolonged use. May cause seizures."
+    },
+    "Metolazone": {
+        "Generic Name": "Metolazone",
+        "Brand Name": "Mykrox",
+        "Indications": "Thiazide-like diuretic, used for edema resistant to loop diuretics.",
+        "Dose": "Children 0.2-0.4 mg/kg/day, divided every 12-24 hrs.",
+        "Route": "PO",
+        "Levels and Metabolism": "Onset of action 1 hr; Half-life 6-20 hrs; 70-95% excreted unchanged in urine.",
+        "Precautions": "Safety and effectiveness in pediatric patients have not been established in controlled clinical trials. May cause electrolyte disturbances, hypotension, tachycardia, and bone marrow suppression. Extemporaneous",
+        "Preparation": "A 1 mg/mL oral suspension may be made by with tablets and one of three different vehicles (cherry syrup diluted 14 with simple syrup; a 11 mixture of Ora-Sweet and Ora-Plus; or a 11 mixture of Ora-Sweet SF and Ora-Plus). Crush twelve 10 mg tablets in a mortar and reduce uniform paste; mix while adding the vehicle in incremental proportions to almost 120 mL; transfer to a calibrated bottle, rinse mortar with shake well and refrigerate. Stable for 60 days.",
+        "References": "Nahata, MC, Pai VB, and Hipple TF, Pediatric Drug Formulations, 5th ed, Cincinnati, OH Harvey Whitney Books Co, 2004."
+    },
+    "Metronidazole": {
+        "Generic Name": "Metronidazole",
+        "Brand Name": "Flagyl",
+        "Indications": "Anaerobic bacterial and protozoal infections such as, amebiasis, giardia lamblia, trichamonas. Treatment of antibiotic associated colitis caused",
+        "Dose": "Interval < 1200 g 0-28 days 7.5 mg/kg q 48 hrs 1200-2000 g 0-7 days 7.5 mg/kgq 24 hrs 1200-2000 g >7 days 7.5 mg/kg q 12 hrs >2000 g 0-7 days 7.5 mg/kgq 12 hrs > 2000 g >7 days 15 mg/kgq 12 hrs May give IV or PO.",
+        "Route": "IV, PO",
+        "Levels and Metabolism": "including bile, bone, CSF. Metabolized in the liver. Half-life 25-75 hrs; 20% eliminated unchanged in urine and up to 15% in feces.",
+        "Precautions": "Use with caution in liver impairment. May cause nausea, vomiting, neutropenia, and rarely seizures."
+    },
+    "Midazolam": {
+        "Generic Name": "Midazolam",
+        "Brand Name": "Versed",
+        "Indications": "Sedation and anesthesia and refractory seizures.",
+        "Dose": "(mg/kg/hr) x Weight (kg) Concentration (mg/mL)* For recommended standard concentrations and more details on calculations please see the appendix.",
+        "Route": "IV, IM, PO",
+        "Levels and Metabolism": "PO absorption rapid; Onset of action 10-20 min (PO), 1-5 min (IV, IM); Half-life 4-17 hrs. Metabolized by hydroxylation and conjugation prior to excretion in urine. Metabolites have little sedative effect.",
+        "Precautions": "Use with caution in patients with renal and hepatic dysfunction. May cause respiratory depression. May cause myoclonus in premature infants. Rapid IV injection may cause hypotension and seizures.  *Calculating infusion rate (mL/hr) ="
+    },
+    "Milrinone": {
+        "Generic Name": "Milrinone",
+        "Brand Name": "Primacor",
+        "Indications": "Short term treatment of low cardiac output states (not responding to other treatments). e.g., due to sepsis, CHF.",
+        "Dose": "(mcg/kg/min) x Weight (kg) x 60 min/hrConcentration (mcg/mL)* For recommended standard concentrations and more details on calculations please see the appendix.",
+        "Route": "IV",
+        "Levels and Metabolism": "Onset of action 5-15 min; Half-life 1-5 in infants. Excreted in the urine as unchanged drug (~85%) and liver metabolite (~15%).",
+        "Precautions": "Monitor for hypotension, electrolyte changes, thrombocytopenia, hepatotoxicity, and renal function."
+    },
+    "Morphine sulfate": {
+        "Generic Name": "Morphine sulfate",
+        "Indications": "Analgesia, sedation and treatment of iatrogenic withdrawal.",
+        "Dose": "(mg/kg/min) x Weight (kg)Concentration (mg/mL)* For recommended standard concentrations and more details on calculations please see the appendix.",
+        "Route": "IV, IM, SubQ",
+        "Levels and Metabolism": "Poorly absorbed when given PO. Metabolized by the liver (conjugated to glucuronide) and excreted by the kidney. Half-life reported to be 10-20 hrs in preterm infants.",
+        "Precautions": "May cause dependence, CNS and respiratory depression, seizures, nausea, vomiting, ileus, constipation, hypotension, bradycardia, peripheral vasodilatation, and urinary retention.Neonatal Abstinence Syndrome - Start when infant has a Finnegan score of > 8 three times or >10 twice, - Initial PO dose (based on Finnegan Neonatal Abstinence Scoring) Scores 8-10 0.24 mg/kg/day, divided q 3-4 hrs Scores 11-13 0.28 mg/kg/day, divided q 3-4 hrs Scores 14-16 0.32 mg/kg/day, divided q 3-4 hrs *Calculating infusion rate (mL/hr) ="
+    },
+    "Nafcillin": {
+        "Generic Name": "Nafcillin",
+        "Brand Name": "Unipen, Nafcil",
+        "Indications": "Treatment of infections caused by penicillinase-producing staphylococcus.",
+        "Dose": "Divided 0-7 days, < 2000 g 50 mg/kg q 12 hrs 0-7 days, > 2000 g 75 mg/kg q 8 hrs >7 days, < 2000 g 75 mg/kg q 8 hrs >7 days, > 2000 g 100 mg/kg q 6 hrs",
+        "Route": "IV",
+        "Levels and Metabolism": "eliminated primarily in bile; 10-30% eliminated unchanged in urine.",
+        "Precautions": "Use with caution in infants with hepatic dysfunction. Irritating to veins; observe for phlebitis. May cause hypokalemia, neutropenia, anemia, eosinophilia, and rarely interstitial nephritis."
+    },
+    "Naloxone": {
+        "Generic Name": "Naloxone",
+        "Brand Name": "Narcan",
+        "Indications": "Neonatal respiratory depression secondary to narcotics.",
+        "Dose": "Give 0.1 mg/kg/dose IV, IM, ET, or SubQ; doses as low as 0.01mg/kg may be given, repeat q 2-3 min if needed.",
+        "Route": "IV, IM, SubQ, ET",
+        "Levels and Metabolism": "Onset of action 2-5 min; Half-life 1.2-3 hrs. Metabolized by the liver and excreted in the urine.",
+        "Precautions": "May precipitate withdrawal symptoms in neonates with physical dependence to narcotics."
+    },
+    "Nitroprusside": {
+        "Generic Name": "Nitroprusside",
+        "Brand Name": "Nipride, Nitropress",
+        "Indications": "Hypertension, reduction of afterload.",
+        "Dose": "(mcg/kg/min) x Weight (kg) x 60 min/hrConcentration (mcg/mL) * For recommended standard concentrations and more details on calculations please see the appendix.",
+        "Route": "IV",
+        "Levels and Metabolism": "Therapeutic Drug MonitoringThyocyanate toxic level 35-100 mcg/mL.Cyanide toxic level >2 mcg/mL.Hypotensive effect onset of action within 2 min; duration 1-10 min. Metabolized by erythrocytes and tissue sulfhydryl group to cyanide; cyanide is then metabolized in the liver by rhodanase to thiocyanate which is then eliminated in the urine. Half-life <10 min (thiocyanate 3-7 days).",
+        "Precautions": "May cause excessive hypotension and tachycardia. Requires careful monitoring of BP and prompt adjustment of infusion rate. Use with caution in renal and hepatic impairment. Protect from light.*Calculating infusion rate (mL/hr) ="
+    },
+    "Norepinephrine": {
+        "Generic Name": "Norepinephrine",
+        "Brand Name": "Levophed",
+        "Indications": "Treatment of shock, severe hypotension.",
+        "Dose": "(mcg/kg/min) x Weight (kg) x 60 min/hrConcentration (mcg/mL) * For recommended standard concentrations and more details on calculations please see the appendix.",
+        "Route": "IV",
+        "Levels and Metabolism": "Onset of action rapid with limited duration. Metabolized by catchol-o methyl tranoferase and monoamine-oxidase enzymes then eliminated in the urine.",
+        "Precautions": "Hypovolemia should be corrected before norepinephrine use. May cause arrhythmias, hypertension, and organ ischemia. Administer through a central line (UVC, Longline, or Surgical CVL)."
+    },
+    "Nystatin": {
+        "Generic Name": "Nystatin",
+        "Brand Name": "Mycostatin",
+        "Indications": "Treatment of cutaneous and mucocutaneous Candidal infections.",
+        "Dose": "Thrush100,000 units (1 mL) q 6-8 hrs. Prophylaxis100,000 units (1 mL) q 8 hrs. Diaper rashTopical cream, ointment, or powder applied 2-4 times per day.",
+        "Route": "PO, topical",
+        "Levels and Metabolism": "Poorly absorbed; eliminated in feces unchanged.",
+        "Precautions": "May cause diarrhea, GI symptoms, contact dermatitis."
+    },
+    "Octreotide": {
+        "Generic Name": "Octreotide",
+        "Brand Name": "Sandostatin",
+        "Indications": "Treatment of hyperinsulinemic hypoglycemia (nesidioblastosis) and as an adjunct treatment for chylothorax.",
+        "Dose": "(mcg/kg/hr) x Weight (kg)Concentration (mcg/mL) * For recommended standard concentrations and more details on calculations please see the appendix.",
+        "Route": "IV, SubQ",
+        "Levels and Metabolism": "Extensively metabolized by the liver; 30% excreted unchanged in the urine.",
+        "Precautions": "May cause cholelithiasis, biliary sludge, elevated liver enzymes, increased CPK, hypoglycemia, nausea, vomiting, and fat malabsorption.*Calculating infusion rate (mL/hr) ="
+    },
+    "Omeprazole": {
+        "Generic Name": "Omeprazole",
+        "Brand Name": "Aciloc, Losec",
+        "Indications": "",
+        "Dose": "1 mg2 mg3 mg4 mg5 mg6 mgVolume0.5 mL1 mL1.5 mL2 mL2.5 mL3 mL",
+        "Route": "PO, IV",
+        "Levels and Metabolism": "Absorption is rapid; metabolized in the liver and eliminated through the kidney; At birth, there is a low level of activity of the enzymes CYP2C19 and CYP3A4 and adult levels of activity are reached in early childhood.",
+        "Precautions": "Observe for symptomatic improvement within 3 daysPeriodic complete blood count and liver function tests with long term therapy",
+        "Preparation": "Empty the contents of the capsules into a mortar and triturate gently with about 10 mL of the Sodium Bicarbonate solution. A smooth paste will be formed when the enteric coating has dissolved and the drug is dispersed. Make to volume.Stability 14 days at 24c or 30 days at 5c. Store in amber containers. Shake before use.",
+        "References": "1. Maria Jose Solana & Jess Lpez-Herce. Pharmacokinetics of intravenous omeprazole in critically ill2. paediatric patients. Eur J Clin Pharmacol (2010) 66323330DOI 10.1007/s00228-009-0774-93. 2013 Sep;163(3)692-8.e1-2. doi 10.1016/j.jpeds.2013.05.007. Epub 2013 Jun 22.4. Quercia RA, Chengde F, Xinchun L, et al, Stability of Omeprazole in an Extemporaneoulsy Prepared Oral Liquid, Am J Health-Systs Pharm, 1997; 541833-6."
+    },
+    "Oxacillin": {
+        "Generic Name": "Oxacillin",
+        "Brand Name": "Bactocill, Prostaphlin",
+        "Indications": "Treatment of infections due to susceptible penicillinase-producing staphylococcus.",
+        "Dose": "Divided 0-7 days, < 2000 g 50 mg/kg q 12 hrs 0-7 days, > 2000 g 75-150 mg/kg q 8 hrs >7 days, < 2000 g 75-150 mg/kg q 8 hrs >7 days, > 2000 g 100-150 mg/kg q 6 hrs Infuse over 30 min.",
+        "Route": "IV, IM",
+        "Levels and Metabolism": "liver. Half-life 1.6 hrs.",
+        "Precautions": "May cause fever, mild leukopenia, and rarely acute interstitial nephritis."
+    },
+    "Palivizumab": {
+        "Generic Name": "Palivizumab",
+        "Brand Name": "Synagis",
+        "Indications": "RSV prophylaxis in high risk infants. Main indications1. and cyanotic congenital. 2. Heart disease. 3. Less than 24 months of age receiving medical therapy for chronic lung disease within the last 6 months before the start of the RSV season. 4. Up to 12 months of age, born at 28 weeks gestation or earlier. 5. Up to 6 months of age, born at 29 - 32 weeks gestation 6. Less than 6 months of age, born between 32 -35 weeks gestation with at least 2 of the following risk factors i. School-age siblings ii. Child care attendance iii. Severe neuromuscular disease iv. Congenital abnormalities of the airways",
+        "Dose": "15 mg/kg once monthly during RSV season.",
+        "Route": "IM",
+        "Levels and Metabolism": "Half-life 20 days.",
+        "Precautions": "Observe injection site for swelling. Does not interfere with other vaccines."
+    },
+    "Pancuronium Bromide": {
+        "Generic Name": "Pancuronium Bromide",
+        "Brand Name": "Pavulon",
+        "Indications": "Skeletal muscle relaxant, paralysis for ventilator therapy or surgery.",
+        "Dose": "(mg/kg/hr) x Weight (kg) Concentration (mg/mL) * For recommended standard concentrations and more details on calculations please see the appendix.",
+        "Route": "IV",
+        "Levels and Metabolism": "Onset of action 1-2 min. Duration 40-60 min (dose dependent). Partially metabolized by the liver; 60% excreted unchanged in the urine and 40% unchanged in bile.",
+        "Precautions": "May cause tachycardia, hypertension, and increased salivation. Potentiated by acidosis, hepatic disease, renal failure, aminoglycosides, hypermagnesemia, and hypokalemia. Antagonized by alkalosis, hypercalcemia, and caffeine. *Calculating infusion rate (mL/hr) ="
+    },
+    "Penicillin G": {
+        "Generic Name": "Penicillin G",
+        "Indications": "Treatment of infections caused by susceptible organisms (such as Streptococci, Neisseria). For congenital syphilis and meningitis.",
+        "Dose": "Units/kg/day, divided q 12 hrs).> 2000 g 75,000 Units/kg/day, divided q 8 hrs (Meningitis 150,000 Units/kg/day, divided q 8 hrs).Congenital syphilis 100,000 Units/kg/day, divided q 12 hrs.Group B strep. meningitis 250,000-450,000 units/kg/day, divided q 8 hrs.PNA >7 days<1200 g 50,000 Units/kg/day, divided q 12 hrs (Meningitis 100,000 Units/kg/day, divided q 12 hrs).1200-2000 g 75,000 Units/kg/day, divided q 8 hrs (Meningitis 150,000 Units/kg/day, divided q 8 hrs).> 2000 g 100,000 Units/kg/day, divided q 6 hrs (Meningitis 200,000 Units/kg/day, divided q 6 hrs)Congenital syphilis 150,000 Units/kg/day, divided q 8 hrs.Group B strep. meningitis 450,000 Units/kg/day, divided q 6 hrs.",
+        "Route": "IV, IM",
+        "Levels and Metabolism": "the liver; half-life ranges from 1-3 hrs. Excreted unchanged and as metabolite in the urine.",
+        "Precautions": "May cause anaphylaxis, diarrhea, hemolytic anemia, hematuria, and interstitial nephritis. Seizures may occur with IV bolus injection, particularly with the higher doses used in meningitis."
+    },
+    "Phenobarbital": {
+        "Generic Name": "Phenobarbital",
+        "Brand Name": "Luminal",
+        "Indications": "may be used for neonatal hyperbilirubinemia and chronic cholestasis.",
+        "Dose": "Anticonvulsant  Loading dose 15-20 mg/kg IV as single or divided doses. May give additional boluses 5-10 mg/kg/dose; max. up to 40 mg/kg total.  Maintenance 3-4 mg/kg/day, IV or PO given once daily; up to 5 mg/kg/day, once daily.Hyperbilirubinemia 3-8 mg/kg/day, IV or PO in 2-3 divided doses.",
+        "Route": "IV, IM, PO",
+        "Levels and Metabolism": "Therapeutic serum level 15-40 mcg/mL.  PO absorption up to 90%; metabolized by liver, then excreted in urine; 20-50% excreted unchanged; excretion enhanced by alkaline urine, half-life ranges between 45-200 hrs.",
+        "Precautions": "Abrupt withdrawal may cause status epilepticus. Use with caution in hepatic and renal impairment. May cause Respiratory depression, drowsiness, and hyperactivity. Drug interactions Induces liver enzymes."
+    },
+    "Phentolamine": {
+        "Generic Name": "Phentolamine",
+        "Brand Name": "Regitine",
+        "Indications": "of drugs with alpha-adrenergic effects such as dopamine or norepinephrine.",
+        "Dose": "Make solution of 0.25-0.5 mg/mL with normal saline. Inject 1 mL (in 5 divided doses of 0.2 mL) SubQ around site of extravasation; max total dose 0.1 mg/kg or 2.5 mg total.",
+        "Route": "SubQ",
+        "Levels and Metabolism": "Metabolized by the liver; 10-13% excreted unchanged in the urine.",
+        "Precautions": "May cause hypotension."
+    },
+    "Phenytoin": {
+        "Generic Name": "Phenytoin",
+        "Brand Name": "Dilantin",
+        "Indications": "Seizures refractory to treatment with phenobarbital alone.",
+        "Dose": "Loading dose 15-20 mg/kg IV, given over 30 minutes in single or divided doses.Maintenance 4-8 mg/kg IV or PO, once daily or q 12 hrs.",
+        "Route": "IV, PO",
+        "Levels and Metabolism": "Therapeutic serum levels 6-15 mcg/mL.  Obtain initial trough level 48 hrs after IV loading dose. PO absorption slow and variable. Metabolized by the liver. Half-life 18-60 hrs (depends on serum concentration). Highly variable clearance, dependent upon intrinsic hepatic function and dose given. 85-90% protein-bound.",
+        "Precautions": "infusion rate of 0.5 mg/kg/min; avoid IM. Administration requires arrhythmias. Hypersensitivity reactions include rashes, abnormal LFTs, eosinophilia, and blood dyscrasias.Drug interaction Induces liver enzymes."
+    },
+    "Piperacillin": {
+        "Generic Name": "Piperacillin",
+        "Indications": "Treatment of infections caused by susceptible Pseudomonas aeruginosa, Klebsiella, Serratia, E. coli, Enterobacter, Citrobacter, and Proteus. Also effective against Group B streptococcus.",
+        "Dose": ">36 weeks gestation 225 mg/kg/day, divided q 8 hrs.PNA >7 days> 36 weeks gestation 300 mg/kg/day, divided q 6 hrs.",
+        "Route": "IV, IM",
+        "Levels and Metabolism": "Half-life 2-4 hrs depending on age. PrecautionMay cause seizures, hypokalemia, eosinophilia, elevated LFTs, and interstitial nephritis."
+    },
+    "Piperacillin and Tazobactam": {
+        "Generic Name": "Piperacillin and Tazobactam",
+        "Brand Name": "Tazocin",
+        "Indications": "Treatment of sepsis, intra-abdominal infections caused by susceptible beta-lactamase producing bacteria.",
+        "Dose": "150-300 mg as piperacillin/kg/day, divided q 6-8 hrs.(Please refer to piperacillin for details on dosing)",
+        "Route": "IV",
+        "Levels and Metabolism": "life 1.5 hrs.",
+        "Precautions": "May cause seizures, hypokalemia, hypertension, edema, interstitial nephritis, and bone marrow suppression.Piperacillin to Tazobactam ratio 81."
+    },
+    "Polycose": {
+        "Generic Name": "Polycose",
+        "Indications": "Caloric supplementation.",
+        "Dose": "Liquid form 1 mL = 2 calories.  Powder form 1 teaspoon = 8 calories, 1 tablespoon = 23 calories.",
+        "Route": "PO",
+        "Precautions": "May cause diarrhea."
+    },
+    "Prednisolone": {
+        "Generic Name": "Prednisolone",
+        "Brand Name": "Orapred",
+        "Indications": "",
+        "Dose": "PO 0.5-2 mg/kg/day divided every 12-24 hrs.",
+        "Route": "PO",
+        "Levels and Metabolism": "The liver is the principal site of its metabolism which typically inactivates the drugPrecautionMay cause immunosuppression, infection,  hypertension, CHF, hypokalemia, edema, hyperglycemia, growth suppression, adrenal suppression, hypothalamic pituitary adrenal (HPA) suppression and peptic ulcer disease, nausea, vomiting. Monitor serum blood glucose, CBC and electrolytes"
+    },
+    "Propranolol": {
+        "Generic Name": "Propranolol",
+        "Brand Name": "Inderal",
+        "Indications": "Tachyarrhythmias, hypertension, palliation of Tetralogy of Fallot, adjunctive treatment in neonatal thyrotoxicosis.",
+        "Dose": "Starting dose PO 0.25 mg/kg/dose q 6-8 hrs. Increase as needed to max. of 5 mg/kg/day. Starting dose IV 0.01 mg/kg q 6-8 hrs over 10 min. Increase as needed to max. of 0.15 mg/kg/dose q 6-8 hrs.",
+        "Route": "IV, PO",
+        "Levels and Metabolism": "liver to active and inactive metabolites. Metabolites eliminated in urine. PrecautionClearance decreased in hepatic dysfunction. May cause hypotension, bradycardia, hypoglycemia, and GI disturbance."
+    },
+    "Protamine Sulfate": {
+        "Generic Name": "Protamine Sulfate",
+        "Brand Name": "Denpru",
+        "Indications": "Reversal of heparin effect.",
+        "Dose": "1 mg protamine neutralizes 100 Units of heparin delivered within 4 hrs, given by slow IV push or IM; maximum dose 50 mg.",
+        "Route": "IV, IM",
+        "Levels and Metabolism": "Onset of action within 5 min; Elimination unknown.",
+        "Precautions": "Warning Protamine sulfate has its own anticoagulant effect and if given in doses in excess of the amount needed to neutralize heparin could result in uncontrollable bleeding. May cause hypotension and bradycardia."
+    },
+    "Pyridoxine": {
+        "Generic Name": "Pyridoxine",
+        "Indications": "Diagnosis and treatment of pyridoxine-dependent seizures and",
+        "Dose": "Initial diagnostic dose in presence of seizures 50-100 mg IV push or IM. Maintenance dose 50-100 mg/day PO.",
+        "Route": "PO, IV, IM",
+        "Levels and Metabolism": "Rapidly absorbed form the GI; converted in the liver to active form. Half-life 15-20 days. Eliminated by liver.",
+        "Precautions": "Profound sedation may occur; be prepared to support with ventilator. Adverse neurologic effects may occur with chronic administration."
+    },
+    "Ranitidine": {
+        "Generic Name": "Ranitidine",
+        "Brand Name": "Zantac",
+        "Indications": "Prevention and treatment of stress ulcer and GI bleeding aggravated by gastric acid secretion.",
+        "Dose": "PO 2 mg/kg/dose, q 12-8 hrs.IV 0.5-1 mg/kg/dose, q 12-8 hrs.Continuous infusion 0.04-0.08 mg/kg/hrs.",
+        "Route": "IV, PO",
+        "Levels and Metabolism": "Metabolized by the liver. PO bioavailability 50%. Half-life 3-7 hrs. 30% of PO dose and 70% of IV dose eliminated unchanged in urine and feces.",
+        "Precautions": "May cause nausea, diarrhea, constipation, vomiting, and thrombocytopenia."
+    },
+    "Rifampicin": {
+        "Generic Name": "Rifampicin",
+        "Brand Name": "Rifampin",
+        "Indications": "Broad spectrum antibiotic. Inhibits DNA dependent RNA polymerase activityEffective against Mycobacteria, Neisseria, gram-positive cocci. Effective in the treatment of persistent coagulase negative staphylococci infections in neonates in combination with vancomycin or aminoglycosides.Used as prophylaxis for meningitis contacts.",
+        "Dose": "PO, IV   5-10 mg/kg/dose once q 24 hrs               Severe infections 20 mg/kg/dose once q 24 hrs",
+        "Route": "IV Infuse over 30-60 minutes via syringe pump.PO Give on empty stomach.",
+        "Levels and Metabolism": "Metabolism hepatic; undergoes enterohepatic recirculation. Excretion in adults Feces (60% to 65%) and urine (~30%) as unchanged drug.",
+        "Precautions": "CBC, renal and hepatic function tests should be obtained prior to instituting therapy and periodically throughout the course of therapy. Neonates with impaired liver function should only be given rifampin in case of necessity and then with caution and under strict medical supervision. Causes orange/red discoloration of body secretions. It passes into the breast milk and therefore should not be used during lactation.",
+        "Preparation": "A rifampin 1% w/v suspension (10 mg/mL) may be made with capsules and one of four syrups (Syrup NF, simple syrup, Syrpalta syrup, or raspberry syrup). Empty the contents of four 300 mg capsules or eight 150 mg capsules onto a piece of weighing paper. If necessary, crush contents to produce bottle. Rinse paper and spatula with 20 mL of chosen syrup and add the rinse to bottle; shake vigorously. Add 100 mL syrup to the bottle and shake vigorously. Label shake well. Stable for 4 weeks at room temperature or refrigerated.",
+        "References": "1. N Margreth van der Lugt, Sylke J Steggerda and Frans J Walther. Use of rifampin in persistent coagulase negative staphylococcal bacteremia in neonates. BMC Pediatrics 2010, 1084  doi10.1186/1471-2431-10-84.2. Russell CD, Lawson McLean A, Saunders C, Laurenson IF. Adjunctive rifampicin may improve outcomes in Staphylococcus aureus bacteraemia a systematic review.3. Nahata MC, Pai VB, and Hipple TF, Pediatric Drug Formulations, 5th ed, Cincinnati, OH Harvey Whitney Books Co, 2004."
+    },
+    "Salbutamol (Albuterol)": {
+        "Generic Name": "Salbutamol (Albuterol)",
+        "Brand Name": "Proventil, Ventolin",
+        "Indications": "Bronchodilation, treatment of hyperkalemia.",
+        "Dose": "Nebulization 0.1-0.5 mg/kg/dose given q 2-6 hrs. Inhalation 100 mcg (1 MDI actuation)/dose q 2-6 hrs.IV 4 mcg/kg/dose; repeat if necessary.Continuous infusion 1-2 mcg/kg/min, adjusted according to response and heart rate up to 5 mcg/kg/min.",
+        "Route": "Inhalation, IV",
+        "Levels and Metabolism": "Metabolized in the liver; half-life 3.5 hrs. Elimination 30% unchanged in urine.",
+        "Precautions": "May cause tachycardia, arrhythmias, tremor, and irritable behavior. Do not administer if heart rate > 180 beats/min. Excessive or prolonged use may cause tolerance."
+    },
+    "Sodium Bicarbonate": {
+        "Generic Name": "Sodium Bicarbonate",
+        "Indications": "Metabolic acidosis during prolonged resuscitation in the presence of losses.",
+        "Dose": "Resuscitation 0.5-1 mEq/kg slow IV push; may repeat in 10 min.Metabolic Acidosis Based on the following formula HCO3Or HCO3 (mEq) =  0.5 x weight (kg) x [24 - serum HCO3- (mEq/L)]Administer half of the calculated dose, and then assess need for remainder.Distal Renal Tubular Acidosis 2-3 mEq/kg/day.Proximal Renal Tubular Acidosis 5-10 mEq/kg/day.",
+        "Route": "IV, PO",
+        "Levels and Metabolism": "Onset of IV rapid; duration 8-10 min; elimination reabsorbed by the kidney and < 1% excreted in urine.",
+        "Precautions": "The osmolarity of sodium bicarbonate (8.4%) is 2000 mOsm/L.  Sodium bicarbonate 4.2% is the recommended preparation for neonates to reduce adverse events. May cause cerebral hemorrhage, local tissue necrosis, hypocalcemia, hypernatremia, and hypokalemia.Basic science and observational studies do not support the use of sodium bicarbonate during resuscitation."
+    },
+    "Spironolactone": {
+        "Generic Name": "Spironolactone",
+        "Brand Name": "Aldactone",
+        "Indications": "Diuresis in combination with other diuretics in the treatment of congestive heart failure and BPD (conditions of increased aldosterone secretion).",
+        "Dose": "1-3 mg/kg/dose PO, given q 12-24 hrs.",
+        "Route": "PO",
+        "Levels and Metabolism": "Metabolized in the liver to canrenone, an active metabolite with a half-life of 13-24 hrs. Highly protein bound. Eliminated in urine and bile.",
+        "Precautions": "May cause hyponatremia, hyperkalemia, rashes, vomiting, diarrhea, headaches, nausea, and drowsiness. Use with caution in patients with impaired renal function.Extemporaneous",
+        "Preparation": "A 1 mg/mL oral suspension may be made with tablets. Crush ten carboxymethylcellulose, 100 mL syrup NF, and mix to a uniform paste; almost shake well. Stable for 3 months at room temperature or refrigerated.",
+        "References": "Nahata MC, Morosco RS, and Hipple TF. Stability of Spironolactone in an Extemporaneously Prepared Suspension at Two Temperatures. Ann Pharmacother, 1993, 27(10)1198-9."
+    },
+    "Tromethamine (THAM)": {
+        "Generic Name": "Tromethamine (THAM)",
+        "Indications": "Correction of metabolic acidosis, usually given in lieu of sodium bicarbonate when infant is hypernatremic.",
+        "Dose": "Max. 500 mg/kg/dose (13.9 ml/kg/dose).",
+        "Route": "IV",
+        "Levels and Metabolism": "THAM is a 0.3 molar solution of tris(hydroxymethyl)-aminomethane.Each 1 mM = 120 mg = 3.3 ml= 1 mEq of THAM. Rapidly eliminated by the kidneys.",
+        "Precautions": "May cause hypoglycemia, hyperkalemia, alkalosis, venospasm, and umbilical venous catheter should be avoided."
+    },
+    "Urokinase": {
+        "Generic Name": "Urokinase",
+        "Brand Name": "Abbokinase",
+        "Indications": "Occluded CVC and intravascular thrombosis.",
+        "Dose": "Occluded IV catheterUse a concentration of 5,000 Units/mL; administer into catheter a volume equal to the internal volume of catheter over 1-2 min; leave in may repeat with 10,000 Units/ml in each lumen if no response. Do not infuse into patient. Thrombolysis Loading dose 4,400 Units/kg, then maintenance of 4,400 Units/kg/hr for 6-12 hrs; as high as 10,000 Units/kg/hr if necessary.",
+        "Route": "IV",
+        "Levels and Metabolism": "Onset of action rapid. Half-life 10-20 min. Eliminated by the liver.",
+        "Precautions": "Bleeding, especially at sites of trauma or surgery. Dislodgement of emboli from thrombus. Do not start urokinase if heparin has been given recently; discontinue heparin and then start urokinase when APTT is less than twice the normal value."
+    },
+    "Ursodeoxycholic acid": {
+        "Generic Name": "Ursodeoxycholic acid",
+        "Brand Name": "Ursodil",
+        "Indications": "Naturally occurring bile acid present in small quantities in human bile.For chronic liver diseases associated with cholestasis.",
+        "Dose": "10 to 15 mg/kg/dose; given 1-2 times daily.",
+        "Route": "PO; may be given at any time in regard to feeds",
+        "Levels and Metabolism": "Suppresses synthesis and secretion of cholesterol by the liver and inhibits intestinal absorption of cholesterol. So it can cause transient increase in liver function test values and transient hypercholesterolemia",
+        "Precautions": "Monitor bilirubin levels and LFTs, prior to instituting therapy and periodically throughout the course of therapy.Extemporaneous",
+        "Preparation": "Add Ora-Blend to form a smooth paste.Note If Ora-Blend unavailable Pre-mix the Ora-Plus and Ora-Sweet, to form the diluent.mortar well. Mix well.Label appropriately.Stability Thirty (30) daysAuxiliary Labels Store at room temperature. Shake well before use.",
+        "References": "1. Chen CY, Tsao P, Chen H, et al. Ursodeoxycholic acid (UDCA) therapy in very-low-birth-weight infants with parenteral nutrition-associated cholestasis. J Pediatr 2004;145317-21.2. Arslanoglu S, Moro GE, Tauschel H, et al. Ursodeoxycholic acid treatment in preterm infants a pilot study for the prevention of cholestasis associated with total parenteral nutrition. J Pediatr Gastroenterol Nutr 2008;46228-31.3. Am J Health-Syst Pharm. 1997; 54 1401-4"
+    },
+    "Vancomycin": {
+        "Generic Name": "Vancomycin",
+        "Brand Name": "Vancocin",
+        "Indications": "Infections due to methicillin-resistant Staphylococcus, beta-lactam resistant coagulase negative staphylococcus, penicillin-resistant",
+        "Dose": "Frequency< 30 weeks0-7 days>7 days10-15 mg/kg/dose10-15 mg/kg/doseq 24 hrsq 12 hrs30-37 weeks0-7 days>7 days15 mg/kg/dose15 mg/kg/doseq 12 hrsq 8 hrs37-44 weeksAll ages10-20 mg/kg/doseq 12 hrsHigher doses may be requested at the discretion of the microbiologist.Dosage adjustment may be required in cases of renal impairment.",
+        "Route": "IV",
+        "Levels and Metabolism": "Desired trough level 5-15 mcg/mL.Desired peak level 25-40 mcg/mL.  Check trough level before 3rd dose and peak level 1 hr after the end of a 1 hr infusion. Eliminated unchanged in urine.",
+        "Precautions": "Use with caution in patients with renal impairment or those receiving impairment. Rapid infusion (< 60 min) may be associated with hypotension and an erythema multiform-like reaction with intense pruritis that occurs on the upper body, face, and arms."
+    },
+    "Vecuronium Bromide": {
+        "Generic Name": "Vecuronium Bromide",
+        "Brand Name": "Norcuron",
+        "Indications": "Skeletal muscle relaxation and paralysis for ventilator therapy or surgery.",
+        "Dose": "0.03-0.15 mg/kg/dose prn (usually given as 0.1 mg/kg/dose q 1-2 hrs).",
+        "Route": "IV",
+        "Levels and Metabolism": "Onset of action 1-2 min. Duration 30-40 min (varies with dose and age). Cleared rapidly in the bile and urine.",
+        "Precautions": "Hypoxemia may occur due to inadequate mechanical ventilation and deterioration in pulmonary mechanics. Tachycardia and blood pressure changes occur frequently. Avoid in hepatic disease.Potentiated by acidosis, hypothermia, neuromuscular disease, hepatic disease, renal failure, cardiovascular disease, aminoglycosides, hypermagnesemia, hypokalemia. Antagonized by alkalosis, hyperkalemia, caffeine. Vecuronium has no sedative or analgesic properties, so analgesia and/or sedation can be given if indicated."
+    },
+    "Vitamin K1 (Phytonadione)": {
+        "Generic Name": "Vitamin K1 (Phytonadione)",
+        "Brand Name": "Aquamephyton",
+        "Indications": "Prophylaxis and treatment of neonatal hemorrhagic disease, treatment of hypoprothrombinemia secondary to liver disease or malabsorption,",
+        "Dose": "Prophylaxis 0.5-1 mg IM at birth. Preterm <32 weeks gestation  1000 g 0.5 mg IM; < 1000 g 0.25 mg IM.Treatment 1-2 mg/day.",
+        "Route": "IM, SubQ, IV",
+        "Levels and Metabolism": "Oral absorption in the intestines in the presence of bile; rapidly metabolized in the liver then eliminated in bile and urine.",
+        "Precautions": "IV administration has been associated with severe reactions resembling anaphylaxis. Monitor response with serial PT."
+    },
+    "Zidovudine": {
+        "Generic Name": "Zidovudine",
+        "Brand Name": "Retrovir",
+        "Indications": "Chemoprophylaxis to reduce perinatal HIV transmission.",
+        "Dose": "Neonates > 35 weeks of gestationPOIVNeonates > 30 weeks but < 35 weeks of gestationPO 2 mg/kg/dose q 12 hrs for the  of life then increase to q 8 hrs for the next 4 weeks (total of 6 weeks).IV 1.5 mg/kg/dose q 12 hrs for the   of life then increase to q 8 hrs for the next 4 weeks (total of 6 weeks).Neonates < 30 weeks gestationPO 2 mg/kg/dose q 12 hrs for the  of life then increase to q 8 hrs for the next 2 weeks (total of 6 weeks).IV 1.5 mg/kg/dose q 12 hrs for the  of life then increase to q 8 hrs for the next 2 weeks (total of 6 weeks).",
+        "Route": "PO, IV",
+        "Levels and Metabolism": "PO well absorbed; Metabolized in the liver to inactive metabolites; Half-life in premature neonates 6 hrs.",
+        "Precautions": "May cause neutropenia, lactic acidosis, and hepatotoxicity.Should be administered as soon as possible, preferably within 8-12 hours after birth."
+    }
+}
