@@ -60964,13 +60964,27 @@ else s.f=150}else if(c>0){s.e="Extreme Preterm"
 if(d<=1)s.f=90
 else if(d<7)s.f=90+(d-1)*10
 else s.f=150}},
-rQ:function(){var s,r,q,p=this,o=p.a,n=p.d=o*p.f,m=n/24
-p.r=m
-s=p.x*6*o/m
-if(s>10){r=n*((s-9)/100)/0.5
-p.y="Use "+C.c.M(n,2)+" ml of mixed glucose solution (10%: "+C.c.M(n-r,2)+" ml | 50%: "+C.c.M(r,2)+" ml ) at "+C.c.M(p.r,2)+" ml/hr"}else if(s===10)p.y="Use "+C.c.M(n,2)+" ml of glucose 10% solution at "+C.c.M(p.r,2)+" ml/hr"
-else if(s<10&&s>5){q=n*((s-3.5)/10)
-p.y="Use "+C.c.M(n,2)+" ml of mixed glucose solution (5%: "+C.c.M(n-q,2)+" ml | 10%: "+C.c.M(q,2)+" ml ) at "+C.c.M(p.r,2)+" ml/hr"}else if(s<=5&&s>0)p.y="Use "+C.c.M(n,2)+" ml of glucose 5% solution at "+C.c.M(p.r,2)+" ml/hr"},
+rQ:function(){var s,r,q,p,o,n,m,l,k=this,j=k.a,i=k.d=j*k.f
+k.r=i/24
+s=k.x
+r=s*j
+q=i*0.05
+if(i*0.1===r)k.y="Use "+C.c.M(i,2)+" ml of glucose 10% solution at "+C.c.M(k.r,2)+" ml/hr"
+else if(q>r)k.y="Use "+C.c.M(i,2)+" ml of glucose 5% solution at "+C.c.M(k.r,2)+" ml/hr"
+else if(s>=20)k.y="Glucose overload for newborn x("
+else if(q<r){for(p=0.95,o=0.05,n=0;n<r;){j=i*p
+s=i*o
+n=j*0.05+s*0.1
+if(n>r){k.y="Use "+C.c.M(i,2)+" ml of mixed glucose solution (5%: "+C.c.M(j,2)+" ml | 10%: "+C.c.M(s,2)+" ml ) at "+C.c.M(k.r,2)+" ml/hr"
+break}p-=0.05
+o+=0.05
+if(o>0.95)break}for(j=k.d,m=0.98,l=0.02;n<r;){i=j*m
+s=j*l
+n=i*0.1+s*0.5
+if(n>r){k.y="Use "+C.c.M(j,2)+" ml of mixed glucose solution (10%: "+C.c.M(i,2)+" ml | 50%: "+C.c.M(s,2)+" ml ) at "+C.c.M(k.r,2)+" ml/hr"
+break}m-=0.02
+l+=0.02
+if(l>0.98)break}}},
 rB:function(a,b,c,d){var s={},r=this.a,q=P.av(["Sodium (SS17.7%)",d*r/3.2,"Potassium",b*r/2,"Calcium",a*r/100,"Magnesium",c*r/100],t.N,t.i)
 s.a=0
 s.b=""
