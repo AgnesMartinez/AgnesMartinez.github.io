@@ -60969,19 +60969,19 @@ k.r=i/24
 s=k.x
 r=s*j
 q=i*0.05
-if(i*0.1===r)k.y="Use "+C.c.M(i,2)+" ml of glucose 10% solution at "+C.c.M(k.r,2)+" ml/hr"
-else if(q>r)k.y="Use "+C.c.M(i,2)+" ml of glucose 5% solution at "+C.c.M(k.r,2)+" ml/hr"
-else if(s>=20)k.y="Glucose overload for newborn x("
+if(s>=20)k.y="Glucose overload for newborn x("
+else if(i*0.1===r)k.y="Use "+C.c.M(i,2)+" ml of glucose 10% solution at "+C.c.M(k.r,2)+" ml/hr"
+else if(q>=r)k.y="Use "+C.c.M(i,2)+" ml of glucose 5% solution at "+C.c.M(k.r,2)+" ml/hr"
 else if(q<r){for(p=0.95,o=0.05,n=0;n<r;){j=i*p
 s=i*o
 n=j*0.05+s*0.1
-if(n>r){k.y="Use "+C.c.M(i,2)+" ml of mixed glucose solution (5%: "+C.c.M(j,2)+" ml | 10%: "+C.c.M(s,2)+" ml ) at "+C.c.M(k.r,2)+" ml/hr"
+if(n>=r){k.y="Use "+C.c.M(i,2)+" ml of mixed glucose solution (5%: "+C.c.M(j,2)+" ml | 10%: "+C.c.M(s,2)+" ml ) at "+C.c.M(k.r,2)+" ml/hr"
 break}p-=0.05
 o+=0.05
 if(o>0.95)break}for(j=k.d,m=0.98,l=0.02;n<r;){i=j*m
 s=j*l
 n=i*0.1+s*0.5
-if(n>r){k.y="Use "+C.c.M(j,2)+" ml of mixed glucose solution (10%: "+C.c.M(i,2)+" ml | 50%: "+C.c.M(s,2)+" ml ) at "+C.c.M(k.r,2)+" ml/hr"
+if(n>=r){k.y="Use "+C.c.M(j,2)+" ml of mixed glucose solution (10%: "+C.c.M(i,2)+" ml | 50%: "+C.c.M(s,2)+" ml ) at "+C.c.M(k.r,2)+" ml/hr"
 break}m-=0.02
 l+=0.02
 if(l>0.98)break}}},
