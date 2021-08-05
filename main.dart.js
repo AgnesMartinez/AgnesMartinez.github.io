@@ -61561,8 +61561,11 @@ r.toString
 r=X.ag6(s,r)
 return D.tm(s,new S.u3(P.aw(["/",new F.UV(),"/About",new F.UW(),"/Drugs",new F.UX(),"/MaintenanceFluids",new F.UY()],t.N,t.hw),"Neonatric",r,!1,s),C.ay,!1,s,s,s,s,s,s,s,s,s,s,s,new F.UZ(b),s,s,s,s,s,s)}}
 F.UZ.prototype={
-$0:function(){var s=L.aap(this.a)
-if(!s.gig())s.AN()},
+$0:function(){var s,r=L.aap(this.a)
+if(!r.gig()){s=r.dx
+s=(s.length!==0?C.b.gM(s):null)!=null}else s=!1
+if(s){s=$.C.u$.f.f
+if(s!=null)s.AN()}},
 $S:0}
 F.UV.prototype={
 $1:function(a){return new L.nZ(null)},
@@ -61581,7 +61584,7 @@ K:function(a,b){var s,r,q,p,o,n,m=null,l=E.zW(m,m,L.av("About Neonatric",m,m,m,m
 k.toString
 s=L.av("Neonatric (c) 2021",m,m,m,m,A.ap(m,m,C.h,m,m,m,m,m,m,m,m,28,m,m,m,m,!0,m,m,m,m,m,m,m),C.a9,m)
 r=L.av("\nWe believe medical knowledge must be universal, open access, and free of any charge.\n\nKnowledge empowers people and we want to empower physicians around the globe!\n\nMake their hard work more efficient so they can spend more time with their patients and less doing paperwork!\n\nDeveloped with \u2764\ufe0f by:\n\n\u2022 Agnes Martinez M.D\n\u2022 Marco Cadenas Ph. D\n\nTwo friendly dartisans from Mexico :)\n\nDisclaimer: Calculators were fined-tuned by real physicians, but there is still room for error.\n\nIf you have any trouble during the usage of any calculators, or got a wrong answer, Please send us a message.\n",m,m,m,m,A.ap(m,m,C.h,m,m,m,m,m,m,m,m,18,m,m,m,m,!0,m,m,m,m,m,m,m),m,m)
-q=A.OI(m,m,new V.cH(C.vv,t.wy),m,m,new V.cH(new P.M(250,80),t.gP),m,m,m,m,m,m,m,m,m,m,m,m)
+q=A.OI(m,m,new V.cH(C.vv,t.wy),m,m,new V.cH(new P.M(230,70),t.gP),m,m,m,m,m,m,m,m,m,m,m,m)
 p=L.f6(C.pI,C.h,40)
 o=L.av("Contact Us",m,m,m,m,A.ap(m,m,C.h,m,m,m,m,m,m,m,m,26,m,m,m,m,!0,m,m,m,m,m,m,m),m,m)
 n=t.F
